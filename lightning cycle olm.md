@@ -54,10 +54,16 @@ https://www.youtube.com/watch?v=R-C61WNwyVs
 Note: If you splash the mage hit after hammer, do not run all the way to the melee safespot to avoid tanking a hit, doing so puts you on crystal cycle and you'll have to tank a hit to get back on lightning.
 
 2. Mage (hit) -> DWH (miss) -> Mage
+https://www.youtube.com/watch?v=8Sw3oF2UuU8
 
-3. Mage (hit) -> DWH (hit or miss) -> Scythe -> Mage
+Note: The 4:0 cycle after missing hammer is necessary to shift the cycle from teleports to lightning cycle. In this example I could have avoided tanking a hit by 4:0ing sooner since I splashed.
 
-https://user-images.githubusercontent.com/81379323/113455591-e847fa80-93bf-11eb-8b68-3400c2227c75.mp4
+3. Mage (hit) -> DWH -> Scythe -> Mage
+https://www.youtube.com/watch?v=GchYxaHHAqA
 
+4. Mage (splash) -> DWH -> Mage (4:0 fix if no cripple, run mage side if cripple)
 
+5. Mage (splash) -> DWH -> Scythe -> Mage
 #### 2 DWH Spec starts
+
+1. 
