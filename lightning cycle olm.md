@@ -1,6 +1,3 @@
-
-https://user-images.githubusercontent.com/81379323/113455409-6061f080-93bf-11eb-94e0-2e41f17b99d9.mp4
-
 # Guide to no teleport olm
 #### by Sri and Fecal
 
@@ -60,5 +57,6 @@ Note: If you splash the mage hit after hammer, do not run all the way to the mel
 
 3. Mage (hit) -> DWH (hit or miss) -> Scythe -> Mage
 
+![](https://user-images.githubusercontent.com/81379323/113455409-6061f080-93bf-11eb-94e0-2e41f17b99d9.mp4)
 
 #### 2 DWH Spec starts
