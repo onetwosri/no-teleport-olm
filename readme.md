@@ -25,11 +25,11 @@ Meanwhile, running the mage hand can be considered a 3 attack cycle where you at
 
 ![](https://i.imgur.com/SpPwqmI.png)
 
-This means that for every iteration of olm's attack cycle, you will go through exactly 4 iterations of your mage hand cycle. Here's a side by side comparison of olm's attack cycle vs. yours. Each colored number on the right represents one full mage hand cycle.
+Since olm's attack cycle is 12 attacks long and your mage hand cycle is 3 attacks long, you will go through exactly 4 iterations of your mage hand cycle. Here's a side by side comparison of olm's attack cycle vs. yours. Each colored number on the right represents one full mage hand cycle.
 
 ![](https://i.imgur.com/WHA5Mzd.png) 
 
-After teleports, the cycle repeats, starting from the beginning. Since the cycle always stays the same, you are always at the same spot each time a particular special happens: you're in the melee safespot for crystals, the mage side safespot for lightning, and on the thumb for teleports. That means that every 4th attack that occurs when you are at the thumb is teleports.
+After teleports, both cycles repeat starting from the beginning. Since the cycle always stays the same, you are always at the same spot each time a particular special happens: you're in the melee safespot for crystals, the mage side safespot for lightning, and on the thumb for teleports. That means that every 4th attack that occurs when you are at the thumb is teleports.
 
 Remember that the only time you tank a hit during mage hand is at when you are at the thumb and you splashed from the melee safespot two attacks prior (the exact mechanics of when olm faces middle on a splash vs turns towards mage hand are a bit more complicated but it's not really important so I haven't included it). This means that if you splash from the melee safespot, there is a 25% chance that you have to tank an attack from olm on the thumb and for that attack to be teleports.
 
