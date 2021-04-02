@@ -25,9 +25,9 @@ Meanwhile, running the mage hand can be considered a 3 attack cycle where you at
 
 ![](https://i.imgur.com/SpPwqmI.png)
 
-Since olm's attack cycle is 12 attacks long and your mage hand cycle is 3 attacks long, you will go through exactly 4 iterations of your mage hand cycle. 
+Since olm's attack cycle is 12 attacks long and your mage hand cycle is 3 attacks long, you will go through exactly 4 iterations of your mage hand cycle. Here's a side by side comparison of olm's attack cycle vs. yours. Each colored number on the right represents one full mage hand cycle.
 
-![A side by side comparison of olm's attack cycle vs. yours. Each colored number on the right represents one full mage hand cycle.](https://i.imgur.com/KfP3Vk5.png) 
+![](https://i.imgur.com/KfP3Vk5.png) 
 
 After teleports, both cycles repeat starting from the beginning. Since the cycle always stays the same, you are always at the same spot each time a particular special happens: you're in the melee safespot for crystals, the mage side safespot for lightning, and on the thumb for teleports. That means that every 4th attack that occurs when you are at the thumb is teleports.
 
@@ -48,6 +48,8 @@ When you first start a phase, you are on teleport cycle by default. To get onto 
 #### 1 DWH Spec starts
 
 1. Mage (hit) -> DWH (hit) -> Mage
+![](https://www.youtube.com/watch?v=R-C61WNwyVs)
+Note: If you splash the mage hit after hammer, do not run all the way to the melee safespot to avoid tanking a hit, doing so puts you on crystal cycle and you'll have to tank a hit to get back on lightning.
 
 2. Mage (hit) -> DWH (miss) -> Mage
 
