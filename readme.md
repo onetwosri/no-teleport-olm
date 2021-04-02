@@ -23,7 +23,7 @@ Meanwhile, running the mage hand can be considered a 3 attack cycle where you at
 2. mage side of head
 3. the area in between the two safespots (will be called thumb for convenience)
 
-###### image with spots labelled
+![](https://i.imgur.com/SpPwqmI.png)
 
 This means that for every iteration of olm's attack cycle, you will go through exactly 4 iterations of your mage hand cycle.
 
