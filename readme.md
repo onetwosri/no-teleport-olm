@@ -31,16 +31,27 @@ Since olm's attack cycle is 12 attacks long and your mage hand cycle is 3 attack
 
 After teleports, both cycles repeat starting from the beginning. Since the cycle always stays the same, you are always at the same spot each time a particular special happens: you're in the melee safespot for crystals, the mage side safespot for lightning, and on the thumb for teleports. That means that every 4th attack that occurs when you are at the thumb is teleports.
 
-Remember that the only time you tank a hit during mage hand is at when you are at the thumb and you splashed from the melee safespot two attacks prior (the exact mechanics of when olm faces middle on a splash vs turns towards mage hand are a bit more complicated but it's not really important so I haven't included it). This means that if you splash from the melee safespot, there is a 25% chance that you have to tank an attack from olm on the thumb and for that attack to be teleports.
+Remember that the only time you tank a hit during mage hand is at when you are at the thumb and you splashed from the melee safespot two attacks prior (the exact mechanics of when olm faces middle on a splash vs turns towards mage hand are a bit more complicated but it's not really important so I haven't included it). This means that if you splash from the melee safespot, there is a 25% chance that you will get teleports on the thumb.
 
 Obviously, this is not ideal. It would be much better if the special that occurred at the thumb was lightning or crystals instead of teleports. To make that happen, you have to shift your mage hand attack cycle relative to olm's, as shown below.
 
 ![](https://i.imgur.com/C5CIeps.png)
 
-This image shows the three possible ways in which your mage hand cycle can line up with olm's attack cycle. Each one is named based on the special that occurs when you are at the thumb. As you can see, being on either crystal or lightning cycle allows you to avoid getting teleported during mage hand.
+This image shows the three possible ways in which your mage hand cycle can line up with olm's attack cycle. Each one is named based on the special that occurs when you are at the thumb. As you can see, being on either crystal or lightning cycle allows you to avoid getting teleports during mage hand.
 
 Of the two "good" cycles, you want to always be on **LIGHTNING** cycle. This may seem counterintuitive, since crystals are much less annoying than lightning, but this is the **_single most important factor_** for avoiding teles during the melee hand.
 
 ### Getting on lightning cycle
 
-When you first start a phase, you are on teleport cycle by default. To get onto lightning cycle, you have to shift olm's attack cycle relative to your own so that he does lightning instead of teles on the thumb. The easiest way to do this is at the beginning of the phase when you spec the hand.
+When you first start a phase, you are on teleport cycle by default. To get onto lightning cycle, you have to shift olm's attack cycle relative to your own so that he does lightning instead of teles on the thumb. The best time to do this is at the beginning of the phase when you spec the hand, since you want to get off teleport cycle ASAP. The absolute simplest way to do this is to make sure that you are at the melee safespot when olm does his sixth attack. A tick by tick breakdown of
+
+#### 1 DWH Spec starts
+
+1. Mage (hit) -> DWH (hit) -> Mage
+
+2. Mage (hit) -> DWH (miss) -> Mage
+
+3. Mage (hit) -> DWH (hit or miss) -> Scythe -> Mage
+
+
+#### 2 DWH Spec starts
