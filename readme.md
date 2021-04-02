@@ -27,7 +27,7 @@ Meanwhile, running the mage hand can be considered a 3 attack cycle where you at
 
 Since olm's attack cycle is 12 attacks long and your mage hand cycle is 3 attacks long, you will go through exactly 4 iterations of your mage hand cycle. Here's a side by side comparison of olm's attack cycle vs. yours. Each colored number on the right represents one full mage hand cycle.
 
-![](https://i.imgur.com/WHA5Mzd.png) 
+![](https://i.imgur.com/KfP3Vk5.png) 
 
 After teleports, both cycles repeat starting from the beginning. Since the cycle always stays the same, you are always at the same spot each time a particular special happens: you're in the melee safespot for crystals, the mage side safespot for lightning, and on the thumb for teleports. That means that every 4th attack that occurs when you are at the thumb is teleports.
 
@@ -41,6 +41,6 @@ This image shows the three possible ways in which your mage hand cycle can line 
 
 Of the two "good" cycles, you want to always be on **LIGHTNING** cycle. This may seem counterintuitive, since crystals are much less annoying than lightning, but this is the **_single most important factor_** for avoiding teles during the melee hand.
 
-## Getting on lightning cycle
+### Getting on lightning cycle
 
 When you first start a phase, you are on teleport cycle by default. To get onto lightning cycle, you have to shift olm's attack cycle relative to your own so that he does lightning instead of teles on the thumb. The easiest way to do this is at the beginning of the phase when you spec the hand.
