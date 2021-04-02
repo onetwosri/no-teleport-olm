@@ -43,7 +43,8 @@ Of the two "good" cycles, you want to always be on **LIGHTNING** cycle. This may
 
 ### Getting on lightning cycle
 
-When you first start a phase, you are on teleport cycle by default. To get onto lightning cycle, you have to shift olm's attack cycle relative to your own so that he does lightning instead of teles on the thumb. The best time to do this is at the beginning of the phase when you spec the hand, since you want to get off teleport cycle ASAP. The absolute simplest way to do this is to make sure that you are at the melee safespot when olm does his sixth attack. A tick by tick breakdown of
+When you first start a phase, you are on teleport cycle by default. To get onto lightning cycle, you have to shift olm's attack cycle relative to your own so that he does lightning instead of teles on the thumb. The best time to do this is at the beginning of the phase when you spec the hand, since you want to get off teleport cycle ASAP. The absolute simplest way to do this is to make sure that you are maging from the melee safespot when olm does his sixth attack. A tick by tick breakdown of
+
 
 #### 1 DWH Spec starts
 
