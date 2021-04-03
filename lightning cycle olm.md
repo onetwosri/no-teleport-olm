@@ -58,12 +58,20 @@ https://www.youtube.com/watch?v=8Sw3oF2UuU8
 
 Note: The 4:0 cycle after missing hammer is necessary to shift the cycle from teleports to lightning cycle. In this example I could have avoided tanking a hit by 4:0ing sooner since I splashed.
 
-3. Mage (hit) -> DWH -> Scythe -> Mage
+3. Mage (splash) -> DWH -> Mage (4:0 fix if no cripple, run mage side if cripple)
+
+https://www.youtube.com/watch?v=xMd62GX1Wjw
+
+
+4. Mage (hit) -> DWH (hit) -> Scythe -> Mage
 https://www.youtube.com/watch?v=GchYxaHHAqA
 
-4. Mage (splash) -> DWH -> Mage (4:0 fix if no cripple, run mage side if cripple)
+5. Mage (hit) -> DWH (miss) -> Scythe -> Mage
 
-5. Mage (splash) -> DWH -> Scythe -> Mage
+
+6. Mage (splash) -> DWH -> Scythe -> Mage
+
+
 #### 2 DWH Spec starts
 
 1. 
