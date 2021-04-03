@@ -43,7 +43,17 @@ Of the two "good" cycles, you want to always be on **LIGHTNING** cycle. This may
 
 ### Getting on lightning cycle
 
-When you first start a phase, you are on teleport cycle by default. To get onto lightning cycle, you have to shift olm's attack cycle relative to your own so that he does lightning instead of teles on the thumb. The best time to do this is at the beginning of the phase when you spec the hand, since you want to get off teleport cycle ASAP. The absolute simplest way to do this is to make sure that you are maging from the melee safespot when olm does his sixth attack. A tick by tick breakdown of
+When you first start a phase, you are on teleport cycle by default. To get onto lightning cycle, you have to shift olm's attack cycle relative to your own so that he does lightning instead of teles on the thumb. The best time to do this is at the beginning of the phase when you spec the hand, since you want to get off teleport cycle ASAP.
+
+The absolute simplest way to do this is to make sure that you are maging from the melee safespot when olm does his sixth attack. A tick by tick breakdown of standard phase starts is shown below: 
+
+![](https://i.imgur.com/3oylhmK.png)
+
+Note that for p1, your first mage attack will be on the same tick as olm's first attack, and that for p2, you will do one mage attack 3 ticks before olm's first attack (not shown in diagram).
+
+Where you stand before olm's 6th attack does not matter, although you obviously want to avoid as many of olm's attacks as possible. A comprehensive list of phase starts for different scenarios is included below to show how best to do this.
+
+**You do not need to memorize all of these.** Most of them are pretty intuitive, but even if you don't do them exactly correctly, as long as you follow the 6th attack rule, you will end up on lightning cycle.
 
 
 #### 1 DWH Spec starts
@@ -74,4 +84,4 @@ https://www.youtube.com/watch?v=GchYxaHHAqA
 
 #### 2 DWH Spec starts
 
-1. 
+1. Mage (hit) 
