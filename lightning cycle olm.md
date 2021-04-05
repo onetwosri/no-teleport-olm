@@ -68,12 +68,12 @@ There are tons of ways to get onto lightning cycle, these clips just represent o
 1. Mage (hit) -> DWH (hit) -> Mage
 https://www.youtube.com/watch?v=R-C61WNwyVs
 
-    Note: If you splash the mage hit after hammer, do not run all the way to the melee safespot to avoid tanking a hit, doing so puts you on crystal cycle and you'll have to tank a hit to get back on lightning.
+    Note: If you splash the mage hit after hammer, do not run all the way to the melee safespot to avoid tanking a hit, doing so puts you on crystal cycle and you'll have to tank a hit at some point later to get back on lightning.
 
 2. Mage (hit) -> DWH (miss) -> Mage
 https://www.youtube.com/watch?v=8Sw3oF2UuU8
 
-    Note: The 4:0 cycle after missing hammer is necessary to shift the cycle from teleports to lightning cycle. In this example I could have avoided tanking a hit by 4:0ing sooner since I splashed.
+    Note: The 4:0 cycle after missing hammer is necessary to shift the cycle from teleports to lightning cycle. In this example I could have avoided tanking a hit by 4:0ing when I splashed instead of waiting and doing it later.
 
 3. Mage (splash) -> DWH -> Mage (4:0 fix if no cripple, run mage side if cripple)
 
