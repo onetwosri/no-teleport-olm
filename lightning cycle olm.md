@@ -51,9 +51,16 @@ The absolute simplest way to do this is to make sure that you are maging from th
 
 Note that for p1, your first mage attack will be on the same tick as olm's first attack, and that for p2, you will do one mage attack 3 ticks before olm's first attack (not shown in diagram).
 
-Where you stand before olm's 6th attack does not matter, although you obviously want to avoid as many of olm's attacks as possible. A comprehensive list of phase starts for different scenarios is included below to show how best to do this.
+Where you stand before olm's 6th attack does not matter, although you obviously want to avoid as many of olm's attacks as possible.
 
-**You do not need to memorize all of these.** Most of them are pretty intuitive, but even if you don't do them exactly correctly, as long as you follow the 6th attack rule, you will end up on lightning cycle.
+
+### Phase start examples
+
+I have included examples of phase starts for many common specing scenarios. 
+
+**You do not need to memorize all of these.**
+
+There are tons of ways to get onto lightning cycle, these clips just represent one way to do it. Feel free to figure out your own methods and do whatever is most comfortable for you. When in doubt, you can always use the 6th attack trick mentioned earlier; at most it will result in you tanking 1 more attack than necessary. Several of the examples below also follow the 6th attack rule.
 
 
 #### 1 DWH Spec starts
@@ -61,12 +68,12 @@ Where you stand before olm's 6th attack does not matter, although you obviously 
 1. Mage (hit) -> DWH (hit) -> Mage
 https://www.youtube.com/watch?v=R-C61WNwyVs
 
-Note: If you splash the mage hit after hammer, do not run all the way to the melee safespot to avoid tanking a hit, doing so puts you on crystal cycle and you'll have to tank a hit to get back on lightning.
+    Note: If you splash the mage hit after hammer, do not run all the way to the melee safespot to avoid tanking a hit, doing so puts you on crystal cycle and you'll have to tank a hit to get back on lightning.
 
 2. Mage (hit) -> DWH (miss) -> Mage
 https://www.youtube.com/watch?v=8Sw3oF2UuU8
 
-Note: The 4:0 cycle after missing hammer is necessary to shift the cycle from teleports to lightning cycle. In this example I could have avoided tanking a hit by 4:0ing sooner since I splashed.
+    Note: The 4:0 cycle after missing hammer is necessary to shift the cycle from teleports to lightning cycle. In this example I could have avoided tanking a hit by 4:0ing sooner since I splashed.
 
 3. Mage (splash) -> DWH -> Mage (4:0 fix if no cripple, run mage side if cripple)
 
@@ -84,4 +91,14 @@ https://www.youtube.com/watch?v=GchYxaHHAqA
 
 #### 2 DWH Spec starts
 
-1. Mage (hit) 
+
+
+1. Mage (hit) -> DWH (miss) -> DWH (miss or hit under 30) -> lance -> mage
+
+2. Mage (hit) -> DWH (miss) -> DWH (hit 30+ aka cripple) -> mage
+
+    Use this one if you don't have a lance with you even if you don't cripple the hand.
+    
+
+## II. Melee Hand
+
