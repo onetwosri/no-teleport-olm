@@ -201,6 +201,9 @@ If you don't have a scythe, losing a tick to get 1t behind olm doesn't cost you,
 
 https://gfycat.com/malefriendlyitalianbrownbear
 
+![scythe1tbehind](https://user-images.githubusercontent.com/81379323/114262075-de5f6200-9992-11eb-98bf-cf74b0087a4b.gif)
+
+
 ### Setting up World Scythe
 
 Coming soon!
