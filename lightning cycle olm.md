@@ -1,3 +1,4 @@
+
 # Guide to no teleport olm
 #### by Sri and Fecal
 
@@ -90,6 +91,8 @@ https://www.youtube.com/watch?v=xMd62GX1Wjw
 
 4. Mage (hit) -> DWH (hit) -> Scythe -> Mage
 https://www.youtube.com/watch?v=GchYxaHHAqA
+
+![](https://streamable.com/n8ng4u)
 
 5. Mage (hit) -> DWH (miss) -> Scythe -> Mage
 
