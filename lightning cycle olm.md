@@ -1,6 +1,8 @@
 # Guide to no teleport olm
 #### by Sri and Fecal
 
+Special thanks to: Tiprikidi (for original mage hand inspiration and fact-checking 4:1 setup) and Sooperpig (for helping with clips and visuals)
+
 This guide explains how to avoid teleports at olm without counting attacks or using any external plugins/timers. It covers running the mage hand as well as how to get into 4:1 or world scythe for the melee hand. It also covers efficient phase starts that facilitate this.
 
 If you are not interested in any of the theory or explanations and just want the quick and dirty version, click [here](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#summary).
@@ -109,8 +111,13 @@ https://www.youtube.com/watch?v=GchYxaHHAqA
 
 There are a few different ways to shift the cycle:
     1. Tanking a hit instead of moving to the next safespot.
-        - This shifts the cycle by 1 (crystals -> lightning, or lightning -> teleports, or teleports -> crystals)
-    2. 
+        - This shifts the cycle by 1 (**crystals -> lightning**, or lightning -> teleports, or teleports -> crystals)
+    2. Making the head turn from mage side to melee immediately.
+        - Examples of this are what happens when you land your dwh or you do a single cycle of 4:0 like in 1 DWH start example #3.
+        - This shifts the cycle *forward* by 1 (crystals -> teleports, or lightning -> crystals, or **teleports -> lightning**)
+    3. Running all the way to the mage hand
+        - Examples is what you do when you cripple the hand with mage->dwh->dwh
+        - This shifts the cycle back by 2 (crystals -> teleports, or lightning -> crystals, or **teleports -> lightning**)
 
 ## II. Melee Hand
 
@@ -144,8 +151,6 @@ https://streamable.com/rs1kf3
 
 ##### Scenario 2: Killing the mage hand from the thumb area (maging same tick as olm)
 
-Killing the mage hand from the thumb is the trickiest since there are two separate scenarios based on whether you are attacking on the same tick as olm or 1 tick after.
-
 If you are maging same tick as olm, then after dealing the killing blow to the hand, run to the melee safespot and hit the hand. Then, tank 1 hit on the thumb before turning the head again, then tank 2 attacks to check the cycle.
 
 **Examples:**
@@ -155,8 +160,6 @@ https://streamable.com/hqiedo
 https://streamable.com/o8hgvi
 
 ##### Scenario 3: Killing the mage hand from the thumb area (maging 1t behind olm)
-
-This method is simpler (imo) than the on-tick variant, so if you are having trouble memorizing both, I recommend always maging 1t behind so that you only need to do this one.
 
 If you are maging 1t behind olm, then after you kill the hand, run to the melee safespot and hit the hand. Then, tank two hits to check the cycle while making your way to the thumb.
 
@@ -175,6 +178,11 @@ If you kill the mage hand from the melee safespot, turn the head **exactly THREE
 https://streamable.com/brexad
 
 https://streamable.com/cruc4z
+
+##### General advice
+
+Thumb kills are by far the trickiest to learn, as there are two variants and the on-tick variant is somewhat unintuitive. If you are struggling with this, one option is to simply mage 1t behind every time. If you don't have a scythe, losing a tick to get 1t behind olm doesn't cost you, since you would have to lose a tick transitioning from (on-tick) mage hand to 4:1 anyways. If you do have a scythe, one easy and efficient way to get 1 tick behind without getting off lightning cycle is to replace a mage attack on the thumb with a scythe, as shown below.
+
 
 ### Setting up World Scythe
 
