@@ -78,13 +78,13 @@ There are tons of ways to get onto lightning cycle, these clips just represent o
 
 https://www.youtube.com/watch?v=R-C61WNwyVs
 
-    Note: If you splash the mage hit after hammer, do not run all the way to the melee safespot to avoid tanking a hit, doing so puts you on crystal cycle and you'll have to tank a hit at some point later to get back on lightning.
+   Note: If you splash the mage hit after hammer, do not run all the way to the melee safespot to avoid tanking a hit, doing so puts you on crystal cycle and you'll have to tank a hit at some point later to get back on lightning.
 
 **2. Mage (hit) -> DWH (miss or <30) -> Mage**
 
 https://www.youtube.com/watch?v=8Sw3oF2UuU8
 
-    Note: The 4:0 cycle after missing hammer is necessary to shift the cycle from teleports to lightning cycle. In this example I could have avoided tanking a hit by 4:0ing when I splashed instead of waiting and doing it later.
+   Note: The 4:0 cycle after missing hammer is necessary to shift the cycle from teleports to lightning cycle. In this example I could have avoided tanking a hit by 4:0ing when I splashed instead of waiting and doing it later.
 
 **3. Mage -> DWH (cripple) -> Mage**
 
@@ -188,7 +188,7 @@ https://streamable.com/cruc4z
 
 Thumb kills are by far the trickiest to learn, as there are two variants and the on-tick variant is somewhat unintuitive. If you are struggling with this, one option is to simply mage 1t behind every time. If you don't have a scythe, losing a tick to get 1t behind olm doesn't cost you, since you would have to lose a tick transitioning from (on-tick) mage hand to 4:1 anyways. If you do have a scythe, one easy and efficient way to get 1 tick behind without getting off lightning cycle is to replace a mage attack on the thumb with a scythe, as shown below.
 
-![](https://gfycat.com/malefriendlyitalianbrownbear)
+![](https://thumbs.gfycat.com/MaleFriendlyItalianbrownbear-size_restricted.gif)
 
 
 ### Setting up World Scythe
