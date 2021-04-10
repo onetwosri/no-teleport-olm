@@ -199,7 +199,6 @@ Thumb kills are by far the trickiest to learn, as there are two variants and the
 
 If you don't have a scythe, losing a tick to get 1t behind olm doesn't cost you, since you would have to lose a tick transitioning from (on-tick) mage hand to 4:1 anyways. If you do have a scythe, one easy and efficient way to get 1 tick behind without getting off lightning cycle is to replace a mage attack on the thumb with a scythe, as shown below.
 
-![scythe1tbehind](https://user-images.githubusercontent.com/81379323/114260932-9c332200-998c-11eb-89f1-3bae35d975f6.gif)
 
 
 ### Setting up World Scythe
