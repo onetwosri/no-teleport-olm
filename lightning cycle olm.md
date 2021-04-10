@@ -85,14 +85,18 @@ https://www.youtube.com/watch?v=R-C61WNwyVs
 https://www.youtube.com/watch?v=8Sw3oF2UuU8
 
    Note: The 4:0 cycle after missing hammer is necessary to shift the cycle from teleports to lightning cycle. In this example I could have avoided tanking a hit by 4:0ing when I splashed instead of waiting and doing it later.
+   
+   **2b.** https://www.youtube.com/watch?v=7N25g0sNXDY
+   
+   Alternative method to shift cycle to lightning. Note that running to the mage hand like I did is unnecessary since olm is facing there anyways. You can just afk at the mage hand safespot and tank auto+null then continue running the mage hand.
 
-**3. Mage (splash) -> DWH (cripple) -> Mage**
+**3. Mage (splash) -> DWH -> Mage**
 
 https://www.youtube.com/watch?v=xMd62GX1Wjw
 
-   Note: After my hammer, I was on teleport cycle. To shift to lightning, I ran to the mage hand when I splashed (which conveneniently happened right away). If you don't want to wait for a splash, you can tank two attacks at the mage side safespot instead. If you time it correctly, you can make it so these two attacks are auto + null so you only tank 1 hit from olm. An example of this is shown below (running to mage hand was not necessary since olm was already facing that way; I just did it out of habit).
+   Note: After my hammer, I was on teleport cycle. To shift to lightning, I ran to the mage hand when I splashed (which conveneniently happened right away). If you don't want to wait for a splash, you can do 1 mage hand cycle and then tank 2 hits at the mage side safespot as shown in example 2b.
    
-  2/3b https://www.youtube.com/watch?v=7N25g0sNXDY
+   If your DWH doesn't cripple the hand, you can alternatively choose to do a 4:0 cycle instead of running to the mage hand, like in example 2a.
 
 **4. Mage (hit) -> DWH (hit) -> Scythe -> Mage**
 
@@ -209,3 +213,4 @@ However, by doing conventional methods such as 4:1 (immediately at the beginning
 If you want to 100% avoid teleports, you need to count from the beginning of the phase, which I honestly would not recommend.
 
 ## Summary
+To avoid teles during mage hand, line up your attack cycle with olm's such that the special you tank in between the safespots when you splash is lightning. The easiest way to do that is just to make sure that you mage from the melee safespot when olm does his sixth attack of the phase. You can also copy the many phase starts shown ![here.]()
