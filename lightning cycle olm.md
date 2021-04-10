@@ -8,7 +8,7 @@ If you are not interested in any of the theory or explanations and just want the
 
 If you have any questions about anything in the guide or any olm mechanics not covered in the guide, feel free to dm onetwosri#2335 on discord and I will be happy to help to the best of my ability.
 
-Special thanks to: Tiprikidi (for original mage hand cycle idea and method, and for reviewing 4:1 setup method) and Sooperpig (for helping with clips and visuals)
+**Special thanks to:** Tiprikidi (for original mage hand cycle idea and method, and for reviewing 4:1 setup method) and Sooperpig (for helping with clips and visuals)
 
 ## I. Mage Hand
 
