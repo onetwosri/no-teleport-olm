@@ -102,3 +102,22 @@ https://www.youtube.com/watch?v=GchYxaHHAqA
 
 ## II. Melee Hand
 
+The advantage of knowing which mage hand cycle you are on is that it makes the timing of teleports somewhat predictable; you know which attacks have a chance of being teleports. For lightning cycle, this happens when you are at the melee safespot. Knowing this allows you to setup the melee hand in such a way that you avoid tanking all attacks that have a chance of being teleports.
+
+### Setting up 4:1
+
+Setting up 4:1 while on lightning cycle is super simple; all you have to do is follow one of the following 4 scenarios based on when you cast the attack that kills the mage hand.
+
+All clips include at least part of the mage hand so that you can verify that I'm on lightning cycle. You can skip forward until the mage hand is almost dead in order to see the 4:1 transition.
+
+##### Scenario 1: Killing mage hand from the mage side safespot
+
+After killing the mage hand, immediately switch to melee and hit melee hand. The head should turn middle (unless it was already facing middle due to a splash, in which case it will use an attack, which you should ignore). Then, just keep hitting the hand while tanking 2 hits to check where you are in the cycle.
+
+Example: https://streamable.com/i5rekf
+
+Note: There is one scenario in which your 2 check hits will not be accurate. This is shown below. If this happens, don't worry as it doesn't mean you did anything wrong. Just get into 4:1 after lightning.
+
+https://streamable.com/rs1kf3
+
+##### Scenario 2: 
