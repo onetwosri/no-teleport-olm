@@ -80,7 +80,7 @@ https://www.youtube.com/watch?v=R-C61WNwyVs
 
    Note: If you splash the mage hit after hammer, do not run all the way to the melee safespot to avoid tanking a hit, doing so puts you on crystal cycle and you'll have to tank a hit at some point later to get back onto lightning.
 
-**2. Mage -> DWH (miss or <30) -> Mage**
+**2a. Mage -> DWH (miss or <30) -> Mage**
 
 https://www.youtube.com/watch?v=8Sw3oF2UuU8
 
