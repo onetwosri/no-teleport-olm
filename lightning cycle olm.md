@@ -213,7 +213,7 @@ However, by doing conventional methods such as 4:1 (immediately at the beginning
 If you want to 100% avoid teleports, you need to count from the beginning of the phase, which I honestly would not recommend.
 
 ## Summary
-To avoid teles during mage hand, line up your attack cycle with olm's such that the special you tank in between the safespots when you splash is lightning. The easiest way to do that is just to make sure that you mage from the melee safespot when olm does his sixth attack of the phase. You can also copy the many phase starts shown ![here.](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#phase-start-examples)
+To avoid teles during mage hand, line up your attack cycle with olm's such that the special you tank in between the safespots when you splash is lightning. The easiest way to do that is just to make sure that you mage from the melee safespot when olm does his sixth attack of the phase. You can also copy the many phase starts shown [here.](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#phase-start-examples)
 
 To avoid teles while setting up 4:1, you must do your check hits slightly differently based on where you do your last attack on the mage hand. The three possible positions are shown below:
 
@@ -224,9 +224,11 @@ To avoid teles while setting up 4:1, you must do your check hits slightly differ
 ![](https://i.imgur.com/SpPwqmI.png)
 
 There are 4 scenarios:
-1. If you kill the mage hand from the melee safespot, turn the head 3 times, then tank 2 hits to check cycle
-2. If you kill the mage hand from the mage side safespot, immediately hit the melee hand and tank your check hits without turning the head any more
-3. If you kill the mage hand from the thumb while attacking on the same tick as olm, turn the head to melee safespot, tank a hit on the thumb, then turn the head again before tanking 2 hits to check cycle.
-4. If you kill the mage hand from the thumb while attacking 1t after olm, turn the head to the melee safespot then tank your 2 hits to check cycle
+1. If you kill the mage hand from the mage side safespot, immediately hit the melee hand and tank your check hits without turning the head any more
+2. If you kill the mage hand from the thumb while attacking on the same tick as olm, turn the head to melee safespot, tank a hit on the thumb, then turn the head again before tanking 2 hits to check cycle.
+3. If you kill the mage hand from the thumb while attacking 1t after olm, turn the head to the melee safespot then tank your 2 hits to check cycle
+4. If you kill the mage hand from the melee safespot, turn the head 3 times, then tank 2 hits to check cycle
 
+Examples of all 4 scenarios can be found [here](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#setting-up-41).
 
+If you do this correctly, you will never get teleports during any part of olm other than the final phase, where these methods don't work, but you can almost always avoid teleports p3 simply by doing conventional methods like 4:1, 4:0, or m7:3.
