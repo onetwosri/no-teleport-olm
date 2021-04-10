@@ -180,7 +180,8 @@ https://streamable.com/cruc4z
 
 Coming soon!
 
-<div class="tenor-gif-embed" data-postid="13795463" data-share-method="host" data-width="100%" data-aspect-ratio="0.8552631578947368"><a href="https://tenor.com/view/waiting-funny-animals-monkey-smile-gif-13795463">Waiting Funny Animals GIF</a> from <a href="https://tenor.com/search/waiting-gifs">Waiting GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![monke](https://user-images.githubusercontent.com/81379323/114255051-cc1bfe80-9967-11eb-856a-c1645bb66a18.gif)
+
 
 ## P3/Final Phase
 
