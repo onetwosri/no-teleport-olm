@@ -74,8 +74,7 @@ There are tons of ways to get onto lightning cycle, these clips just represent o
 
 #### 1 DWH Spec starts
 
-1. Mage (hit) -> DWH (hit) -> Mage
-https://www.youtube.com/watch?v=R-C61WNwyVs
+![1. Mage (hit) -> DWH (hit) -> Mage](https://www.youtube.com/watch?v=R-C61WNwyVs)
 
     Note: If you splash the mage hit after hammer, do not run all the way to the melee safespot to avoid tanking a hit, doing so puts you on crystal cycle and you'll have to tank a hit at some point later to get back on lightning.
 
