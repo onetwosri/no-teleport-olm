@@ -1,13 +1,14 @@
 
 # Guide to no teleport olm
 #### by Sri and Fecal
-##### Special thanks to: Tiprikidi (for original mage hand inspiration and fact-checking 4:1 setup) and Sooperpig (for helping with clips and visuals)
 
 This guide explains how to avoid teleports at olm without counting attacks or using any external plugins/timers. It covers running the mage hand as well as how to get into 4:1 or world scythe for the melee hand. It also covers efficient phase starts that facilitate this.
 
 If you are not interested in any of the theory or explanations and just want the quick and dirty version, click [here](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#summary).
 
 If you have any questions about anything in the guide or any olm mechanics not covered in the guide, feel free to dm onetwosri#2335 on discord and I will be happy to help to the best of my ability.
+
+Special thanks to: Tiprikidi (for original mage hand cycle idea and method, and for reviewing 4:1 setup method) and Sooperpig (for helping with clips and visuals)
 
 ## I. Mage Hand
 
