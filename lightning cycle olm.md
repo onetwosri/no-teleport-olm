@@ -110,11 +110,13 @@ There are a few different ways to shift the cycle:
 
 The advantage of knowing which mage hand cycle you are on is that it makes the timing of teleports somewhat predictable; you know which attacks have a chance of being teleports. For lightning cycle, this happens when you are at the melee safespot. Knowing this allows you to setup the melee hand in such a way that you avoid tanking all attacks that have a chance of being teleports.
 
-This is complicated by the cycle shift that sometimes occurs when the mage hand dies, but all the methods shown below take this into account, so you don't need to worry about it. We (and Tiprikidi, who figured it before us) have chosen not to release the exact mechanics of the cycle shift as doing so could allow for cheat clients/plugins that accurately count and track olm's attack cycle, which would reduce the fun and challenge of solo olm.
+This is complicated by the cycle shift that sometimes occurs when the mage hand dies, but all the methods shown below take this into account, so you don't need to worry about it.
+
+We (and Tiprikidi, who figured it before us) have chosen not to release the exact mechanics of the cycle shift as doing so could allow for cheat clients/plugins that accurately count and track olm's attack cycle, which would reduce the fun and challenge of solo olm.
 
 ### Setting up 4:1
 
-Setting up 4:1 while on lightning cycle is super simple; all you have to do is follow one of the following 4 scenarios based on when you cast the attack that kills the mage hand. It might seem confusing at first, but for the most part, the methods are extremely intuitive and once you do them a few times they will become automatic.
+Setting up 4:1 while on lightning cycle is extremely simple; all you have to do is follow one of the following 4 scenarios based on when you cast the attack that kills the mage hand. It might seem confusing at first, but for the most part, the methods are extremely intuitive and once you do them a few times they will become automatic.
 
 All clips include at least part of the mage hand so that you can verify that I'm on lightning cycle. You can skip forward until the mage hand is almost dead in order to see the 4:1 transition.
 
