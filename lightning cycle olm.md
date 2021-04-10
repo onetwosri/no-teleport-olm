@@ -218,7 +218,7 @@ However, by doing conventional methods such as 4:1 (immediately at the beginning
 If you want to 100% avoid teleports, you need to count from the beginning of the phase, which I honestly would not recommend.
 
 ## Summary
-To avoid teles during mage hand, line up your attack cycle with olm's such that the special you tank in between the safespots when you splash is lightning. The easiest way to do that is just to make sure that you mage from the melee safespot when olm does his sixth attack of the phase. You can also copy the many phase starts shown [here.](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#phase-start-examples)
+To avoid teleports while killing Olm's mage hand, line up your attack cycle with Olm's such that the special attack you tank in between the safespots when you splash is lightning. The easiest way to do so is just to make sure that you mage from the melee safespot when olm does his sixth attack of the phase. You can also copy the many phase starts shown [here.](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#phase-start-examples)
 
 To avoid teles while setting up 4:1, you must do your check hits slightly differently based on where you do your last attack on the mage hand. The three possible positions are shown below:
 
