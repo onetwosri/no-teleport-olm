@@ -208,7 +208,7 @@ Coming soon!
 
 ## P3/Final Phase
 
-Unfortunately, none of the methods listed above work for the final phase. This is because the addition of the healing special means that olm's attack cycle is no longer divisible by 3.
+Unfortunately, the methods listed above **do not work** for the final phase. This is because the addition of the healing special means that olm's attack cycle is no longer divisible by 3.
 
 However, by doing conventional methods such as 4:1 (immediately at the beginning of the phase), 4:0, or mage 7:3, you can completely avoid teleports while killing the melee hand, and the odds of getting teleports while doing the mage hand are low enough and represent a small enough timeloss that I would not worry about it.
 
