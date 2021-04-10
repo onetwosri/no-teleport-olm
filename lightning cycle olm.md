@@ -74,22 +74,25 @@ There are tons of ways to get onto lightning cycle, these clips just represent o
 
 #### 1 DWH Spec starts
 
-**1. Mage (hit) -> DWH (hit) -> Mage**
+**1. Mage -> DWH (hit) -> Mage**
 
 https://www.youtube.com/watch?v=R-C61WNwyVs
 
-   Note: If you splash the mage hit after hammer, do not run all the way to the melee safespot to avoid tanking a hit, doing so puts you on crystal cycle and you'll have to tank a hit at some point later to get back on lightning.
+   Note: If you splash the mage hit after hammer, do not run all the way to the melee safespot to avoid tanking a hit, doing so puts you on crystal cycle and you'll have to tank a hit at some point later to get back onto lightning.
 
-**2. Mage (hit) -> DWH (miss or <30) -> Mage**
+**2. Mage -> DWH (miss or <30) -> Mage**
 
 https://www.youtube.com/watch?v=8Sw3oF2UuU8
 
    Note: The 4:0 cycle after missing hammer is necessary to shift the cycle from teleports to lightning cycle. In this example I could have avoided tanking a hit by 4:0ing when I splashed instead of waiting and doing it later.
 
-**3. Mage -> DWH (cripple) -> Mage**
+**3. Mage (splash) -> DWH (cripple) -> Mage**
 
 https://www.youtube.com/watch?v=xMd62GX1Wjw
 
+   Note: After my hammer, I was on teleport cycle. To shift to lightning, I ran to the mage hand when I splashed (which conveneniently happened right away). If you don't want to wait for a splash, you can tank two attacks at the mage side safespot instead. If you time it correctly, you can make it so these two attacks are auto + null so you only tank 1 hit from olm. An example of this is shown below (running to mage hand was not necessary since olm was already facing that way; I just did it out of habit).
+   
+  2/3b https://www.youtube.com/watch?v=7N25g0sNXDY
 
 **4. Mage (hit) -> DWH (hit) -> Scythe -> Mage**
 
@@ -97,21 +100,21 @@ https://www.youtube.com/watch?v=GchYxaHHAqA
 
 **5. Mage (hit) -> DWH (miss) -> Scythe -> Mage**
 
-
+Clip pending. See #7 in the meantime, it's exactly the same except that you mage same tick as olm instead of 1t behind since scythe is 5t unlike hammer, which is 6t.
 
 
 #### 2 DWH Spec starts
 
-**1. Mage (hit) -> DWH (miss) -> DWH (miss or hit under 30) -> lance -> mage**
+**6. Mage -> DWH (miss) -> DWH (miss or hit under 30) -> lance -> mage**
 
+https://www.youtube.com/watch?v=DyUPRsW0Ohs
 
+**7. Mage -> DWH (miss) -> DWH (hit 30+ aka cripple) -> mage**
 
-**2. Mage (hit) -> DWH (miss) -> DWH (hit 30+ aka cripple) -> mage**
+https://www.youtube.com/watch?v=6ta25GwTezA
 
-
-
-    Use this one if you don't have a lance with you even if you don't cripple the hand.
-    
+   Use this one if you don't have a lance with you even if you don't cripple the hand. Technically you can save energy by just standing still and doing 2 mage attacks after hammering, just like in example #4. I prefer clicking to run to the mage hand as I do my second spec so that I don't need to instantly react to my exp drop in order to do #6.
+   
 #### Basic knowledge for shifting mage hand cycle
 
 There are a few different ways to shift the cycle:
@@ -120,8 +123,8 @@ There are a few different ways to shift the cycle:
     2. Making the head turn from mage side to melee immediately.
         - Examples of this are what happens when you land your dwh or you do a single cycle of 4:0 like in 1 DWH start example #3.
         - This shifts the cycle *forward* by 1 (crystals -> teleports, or lightning -> crystals, or **teleports -> lightning**)
-    3. Running all the way to the mage hand
-        - Examples is what you do when you cripple the hand with mage->dwh->dwh
+    3. Running all the way to the mage hand *without* skipping hits
+        - Example is what you do when you cripple the hand with mage->dwh->dwh
         - This shifts the cycle back by 2 (crystals -> teleports, or lightning -> crystals, or **teleports -> lightning**)
 
 ## II. Melee Hand
