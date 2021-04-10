@@ -237,3 +237,4 @@ There are 4 scenarios:
 Examples of all 4 scenarios can be found [here](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#setting-up-41).
 
 If you do this correctly, you will never get teleports during any part of olm other than the final phase, where these methods don't work, but you can almost always avoid teleports p3 simply by doing conventional methods like 4:1, 4:0, or m7:3.
+
