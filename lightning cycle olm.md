@@ -1,6 +1,12 @@
 # Guide to no teleport olm
 #### by Sri and Fecal
 
+This guide explains how to avoid teleports at olm without counting attacks or using any external plugins/timers. It covers running the mage hand as well as how to get into 4:1 or world scythe for the melee hand. It also covers efficient phase starts to facilitate this.
+
+If you are not interested in any of the theory or explanations and just want the quick and dirty version, click here.
+
+If you have any questions about anything in the guide or any olm mechanics not covered in the guide, feel free to dm onetwosri#2335 on discord and I will be happy to help to the best of my ability.
+
 ## I. Mage Hand
 
 For all phases other than the final phase, olm's attack cycle is as follows:
@@ -170,4 +176,18 @@ https://streamable.com/brexad
 
 https://streamable.com/cruc4z
 
+### World Scythe
 
+Coming soon!
+
+![](https://tenor.com/view/waiting-funny-animals-monkey-smile-gif-13795463)
+
+## P3/Final Phase
+
+Unfortunately, none of the methods listed above work for the final phase. This is because the addition of the healing special means that olm's attack cycle is no longer divisible by 3.
+
+However, by doing conventional methods such as 4:1 (immediately at the beginning of the phase), 4:0, or mage 7:3, you can completely avoid teleports while killing the melee hand, and the odds of getting teleports while doing the mage hand are low enough and represent a small enough timeloss that I would not worry about it.
+
+If you want to 100% avoid teleports, you need to count from the beginning of the phase, which I honestly would not recommend.
+
+## Summary of the methods:
