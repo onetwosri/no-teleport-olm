@@ -176,7 +176,7 @@ https://streamable.com/brexad
 
 https://streamable.com/cruc4z
 
-### World Scythe
+### Setting up World Scythe
 
 Coming soon!
 
