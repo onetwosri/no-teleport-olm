@@ -3,7 +3,7 @@
 
 This guide explains how to avoid teleports at olm without counting attacks or using any external plugins/timers. It covers running the mage hand as well as how to get into 4:1 or world scythe for the melee hand. It also covers efficient phase starts that facilitate this.
 
-If you are not interested in any of the theory or explanations and just want the quick and dirty version, click [Go to Summary]here.
+If you are not interested in any of the theory or explanations and just want the quick and dirty version, click [here](Summary).
 
 If you have any questions about anything in the guide or any olm mechanics not covered in the guide, feel free to dm onetwosri#2335 on discord and I will be happy to help to the best of my ability.
 
