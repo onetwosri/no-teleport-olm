@@ -84,19 +84,19 @@ https://www.youtube.com/watch?v=R-C61WNwyVs
 
 https://www.youtube.com/watch?v=8Sw3oF2UuU8
 
-   Note: The 4:0 cycle after missing hammer is necessary to shift the cycle from teleports to lightning cycle. In this example I could have avoided tanking a hit by 4:0ing when I splashed instead of waiting and doing it later.
+   Note: The 4:0 cycle after missing hammer is necessary to shift the cycle from teleports to lightning cycle. In this example I could have avoided tanking a hit by 4:0ing when I splashed instead of waiting and doing it later. The advantage of this method is that you don't tank any hits to shift the cycle, but it costs 1 tick (which you'd lose anyways if you don't have a scythe).
    
    **2b.** https://www.youtube.com/watch?v=7N25g0sNXDY
    
-   Alternative method to shift cycle to lightning. Note that running to the mage hand like I did is unnecessary since olm is facing there anyways. You can just afk at the mage hand safespot and tank auto+null then continue running the mage hand.
+   Alternative method to shift cycle to lightning without losing a tick. Note that running to the mage hand like I did is unnecessary since olm is facing there anyways. You can just afk at the mage hand safespot and tank auto+null then continue running the mage hand. 
 
 **3. Mage (splash) -> DWH -> Mage**
 
 https://www.youtube.com/watch?v=xMd62GX1Wjw
 
-   Note: After my hammer, I was on teleport cycle. To shift to lightning, I ran to the mage hand when I splashed (which conveneniently happened right away). If you don't want to wait for a splash, you can do 1 mage hand cycle and then tank 2 hits at the mage side safespot as shown in example 2b.
+   Note: After my hammer, I was on teleport cycle. To shift to lightning, I ran to the mage hand when I splashed (which conveneniently happened right away). If you don't want to wait for a splash, you can do 1 mage hand cycle and then tank 2 hits at the mage side safespot as shown in example **2b**.
    
-   If your DWH doesn't cripple the hand, you can alternatively choose to do a 4:0 cycle instead of running to the mage hand, like in example 2a.
+   If your DWH doesn't cripple the hand, you can alternatively choose to do a 4:0 cycle instead of running to the mage hand, like in example **2a**.
 
 **4. Mage (hit) -> DWH (hit) -> Scythe -> Mage**
 
@@ -193,7 +193,9 @@ https://streamable.com/cruc4z
 
 ##### General advice
 
-Thumb kills are by far the trickiest to learn, as there are two variants and the on-tick variant is somewhat unintuitive. If you are struggling with this, one option is to simply mage 1t behind every time. If you don't have a scythe, losing a tick to get 1t behind olm doesn't cost you, since you would have to lose a tick transitioning from (on-tick) mage hand to 4:1 anyways. If you do have a scythe, one easy and efficient way to get 1 tick behind without getting off lightning cycle is to replace a mage attack on the thumb with a scythe, as shown below.
+Thumb kills are by far the trickiest to learn, as there are two variants and the on-tick variant is somewhat unintuitive. If you are struggling with this, one option is to simply mage 1t behind every time.
+
+If you don't have a scythe, losing a tick to get 1t behind olm doesn't cost you, since you would have to lose a tick transitioning from (on-tick) mage hand to 4:1 anyways. If you do have a scythe, one easy and efficient way to get 1 tick behind without getting off lightning cycle is to replace a mage attack on the thumb with a scythe, as shown below.
 
 ![](https://thumbs.gfycat.com/MaleFriendlyItalianbrownbear-size_restricted.gif)
 
