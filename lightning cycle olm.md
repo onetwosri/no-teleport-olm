@@ -122,14 +122,15 @@ https://www.youtube.com/watch?v=6ta25GwTezA
 #### Basic knowledge for shifting mage hand cycle
 
 There are a few different ways to shift the cycle:
-    1. Tanking a hit instead of moving to the next safespot.
+
+   1. Tanking a hit instead of moving to the next safespot.
         - This shifts the cycle by 1 (**crystals -> lightning**, or lightning -> teleports, or teleports -> crystals)
 
-/   2. Making the head turn from mage side to melee immediately.
+   2. Making the head turn from mage side to melee immediately.
         - Examples of this are what happens when you land your dwh or you do a single cycle of 4:0 like in 1 DWH start example #3.
         - This shifts the cycle *forward* by 1 (crystals -> teleports, or lightning -> crystals, or **teleports -> lightning**)
     
-/   3. Running all the way to the mage hand *without* skipping hits
+   3. Running all the way to the mage hand *without* skipping hits
         - Example is what you do when you cripple the hand with mage->dwh->dwh
         - This shifts the cycle back by 2 (crystals -> teleports, or lightning -> crystals, or **teleports -> lightning**)
 
