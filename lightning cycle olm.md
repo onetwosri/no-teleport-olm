@@ -99,6 +99,12 @@ https://www.youtube.com/watch?v=GchYxaHHAqA
 
     Use this one if you don't have a lance with you even if you don't cripple the hand.
     
+#### Basic knowledge for shifting mage hand cycle
+
+There are a few different ways to shift the cycle:
+    1. Tanking a hit instead of moving to the next safespot.
+        - This shifts the cycle by 1 (crystals -> lightning, or lightning -> teleports, or teleports -> crystals)
+    2. 
 
 ## II. Melee Hand
 
@@ -106,18 +112,48 @@ The advantage of knowing which mage hand cycle you are on is that it makes the t
 
 ### Setting up 4:1
 
-Setting up 4:1 while on lightning cycle is super simple; all you have to do is follow one of the following 4 scenarios based on when you cast the attack that kills the mage hand.
+Setting up 4:1 while on lightning cycle is super simple; all you have to do is follow one of the following 4 scenarios based on when you cast the attack that kills the mage hand. It might seem confusing at first, but for the most part, the methods are extremely intuitive and once you do them a few times they will become automatic.
 
 All clips include at least part of the mage hand so that you can verify that I'm on lightning cycle. You can skip forward until the mage hand is almost dead in order to see the 4:1 transition.
+
+P.s. many of the clips have scuffed audio and grandma clicks (sorry), but they should still be decent examples
 
 ##### Scenario 1: Killing mage hand from the mage side safespot
 
 After killing the mage hand, immediately switch to melee and hit melee hand. The head should turn middle (unless it was already facing middle due to a splash, in which case it will use an attack, which you should ignore). Then, just keep hitting the hand while tanking 2 hits to check where you are in the cycle.
 
-Example: https://streamable.com/i5rekf
+**Examples:**
+https://streamable.com/i5rekf
+https://streamable.com/304nga
 
-Note: There is one scenario in which your 2 check hits will not be accurate. This is shown below. If this happens, don't worry as it doesn't mean you did anything wrong. Just get into 4:1 after lightning.
+**Note:** There is one scenario in which your 2 check hits will not be accurate. This is shown below. If this happens, don't worry as it doesn't mean you did anything wrong. Just get into 4:1 after lightning.
 
 https://streamable.com/rs1kf3
 
-##### Scenario 2: 
+##### Scenario 2: Killing the mage hand from the thumb area (maging same tick as olm)
+
+Killing the mage hand from the thumb is the trickiest since there are two separate scenarios based on whether you are attacking on the same tick as olm or 1 tick after.
+
+If you are maging same tick as olm, then after dealing the killing blow to the hand, run to the melee safespot and hit the hand. Then, tank 1 hit on the thumb before turning the head again, then tank 2 attacks to check the cycle.
+
+**Examples:**
+https://streamable.com/hqiedo
+https://streamable.com/o8hgvi
+
+##### Scenario 3: Killing the mage hand from the thumb area (maging 1t behind olm)
+
+This method is simpler (imo) than the on-tick variant, so if you are having trouble memorizing both, I recommend always maging 1t behind so that you only need to do this one.
+
+If you are maging 1t behind olm, then after you kill the hand, run to the melee safespot and hit the hand. Then, tank two hits to check the cycle while making your way to the thumb.
+
+**Examples:**
+https://streamable.com/wug42d
+https://streamable.com/bxrl5e
+
+##### Scenario 4: Killing the mage hand from the melee safespot
+
+If you kill the mage hand from the melee safespot, turn the head **exactly THREE** times, before tanking two hits to check the cycle. The first head turn is when olm turns from melee safespot to mage side. This means that you only go to the melee safespot if your first lance hit noodles, causing olm to turn middle instead of melee side, as shown in the second example.
+
+**Examples:**
+https://streamable.com/brexad
+https://streamable.com/cruc4z
