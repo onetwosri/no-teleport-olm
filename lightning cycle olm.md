@@ -236,7 +236,7 @@ There are 4 scenarios:
 3. If you kill the mage hand from the thumb while attacking 1t after olm, turn the head to the melee safespot then tank your 2 hits to check cycle
 4. If you kill the mage hand from the melee safespot, turn the head 3 times, then tank 2 hits to check cycle
 
-You can further simplify this down to 3 scenarios by always maging 1t behind olm. To efficiently transition from maging same tick to 1t behind, do this: https://gfycat.com/malefriendlyitalianbrownbear
+You can further simplify this down to 3 scenarios by always maging 1t behind olm. To efficiently transition from maging same tick to 1t behind, you can replace your mage attack from the thumb with a scythe hit: https://gfycat.com/malefriendlyitalianbrownbear
 
 Examples of all 4 scenarios can be found [here](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#setting-up-41).
 
