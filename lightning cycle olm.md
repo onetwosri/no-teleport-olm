@@ -74,36 +74,41 @@ There are tons of ways to get onto lightning cycle, these clips just represent o
 
 #### 1 DWH Spec starts
 
-![1. Mage (hit) -> DWH (hit) -> Mage](https://www.youtube.com/watch?v=R-C61WNwyVs)
+**1. Mage (hit) -> DWH (hit) -> Mage**
+
+https://www.youtube.com/watch?v=R-C61WNwyVs
 
     Note: If you splash the mage hit after hammer, do not run all the way to the melee safespot to avoid tanking a hit, doing so puts you on crystal cycle and you'll have to tank a hit at some point later to get back on lightning.
 
-2. Mage (hit) -> DWH (miss) -> Mage
+**2. Mage (hit) -> DWH (miss or <30) -> Mage**
+
 https://www.youtube.com/watch?v=8Sw3oF2UuU8
 
     Note: The 4:0 cycle after missing hammer is necessary to shift the cycle from teleports to lightning cycle. In this example I could have avoided tanking a hit by 4:0ing when I splashed instead of waiting and doing it later.
 
-3. Mage (splash) -> DWH -> Mage (4:0 fix if no cripple, run mage side if cripple)
+**3. Mage -> DWH (cripple) -> Mage**
 
 https://www.youtube.com/watch?v=xMd62GX1Wjw
 
 
-4. Mage (hit) -> DWH (hit) -> Scythe -> Mage
+**4. Mage (hit) -> DWH (hit) -> Scythe -> Mage**
+
 https://www.youtube.com/watch?v=GchYxaHHAqA
 
-5. Mage (hit) -> DWH (miss) -> Scythe -> Mage
+**5. Mage (hit) -> DWH (miss) -> Scythe -> Mage**
 
 
-6. Mage (splash) -> DWH -> Scythe -> Mage
 
 
 #### 2 DWH Spec starts
 
+**1. Mage (hit) -> DWH (miss) -> DWH (miss or hit under 30) -> lance -> mage**
 
 
-1. Mage (hit) -> DWH (miss) -> DWH (miss or hit under 30) -> lance -> mage
 
-2. Mage (hit) -> DWH (miss) -> DWH (hit 30+ aka cripple) -> mage
+**2. Mage (hit) -> DWH (miss) -> DWH (hit 30+ aka cripple) -> mage**
+
+
 
     Use this one if you don't have a lance with you even if you don't cripple the hand.
     
@@ -182,6 +187,8 @@ https://streamable.com/cruc4z
 ##### General advice
 
 Thumb kills are by far the trickiest to learn, as there are two variants and the on-tick variant is somewhat unintuitive. If you are struggling with this, one option is to simply mage 1t behind every time. If you don't have a scythe, losing a tick to get 1t behind olm doesn't cost you, since you would have to lose a tick transitioning from (on-tick) mage hand to 4:1 anyways. If you do have a scythe, one easy and efficient way to get 1 tick behind without getting off lightning cycle is to replace a mage attack on the thumb with a scythe, as shown below.
+
+![](https://gfycat.com/malefriendlyitalianbrownbear)
 
 
 ### Setting up World Scythe
