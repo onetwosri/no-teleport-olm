@@ -130,7 +130,7 @@ There are a few different ways to shift the cycle:
         - This shifts the cycle *forward* by 1 (crystals -> teleports, or lightning -> crystals, or **teleports -> lightning**)
     
    3. Running all the way to the mage hand *without* skipping hits
-        - Example is what you do when you cripple the hand with mage->dwh->dwh
+        - Example is what you do when you cripple the hand with mage->dwh->dwh (#7)
         - This shifts the cycle back by 2 (crystals -> teleports, or lightning -> crystals, or **teleports -> lightning**)
 
 ## II. Melee Hand
