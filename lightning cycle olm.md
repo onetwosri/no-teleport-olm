@@ -103,8 +103,7 @@ https://www.youtube.com/watch?v=GchYxaHHAqA
 
 **5. Mage (hit) -> DWH (miss) -> Scythe -> Mage**
 
-Clip pending. See #7 in the meantime, it's exactly the same except that you mage same tick as olm instead of 1t behind since scythe is 5t unlike hammer, which is 6t.
-
+https://youtu.be/Z05BbMe8RHs
 
 #### 2 DWH Spec starts
 
