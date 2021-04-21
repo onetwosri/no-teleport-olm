@@ -226,7 +226,7 @@ The timing of the mage hand dying, and therefore whether or not olm's attack cyc
 2) how far away from the mage hand you are when you cast the killing mage attack (important due to trident/sang staff having projectile travel times that vary with distance).
 3) where in olm’s attack cycle you are when the mage hand dies
 
-Because most strategies entail either attacking on the same tick as olm or 1 tick after olm, only those scenarios will be covered.
+Because most strategies entail either attacking on the same tick as olm or 1 tick after olm, only those scenarios will be covered here.
 
 Both the trident and sang staff have a hit delay of 2 ticks at a range of 2-4 tiles from the target and a hit delay of 3 ticks at a range from 5-7 tiles from the target. This means that when you attack from the mage side safespot, your hitsplat appears on mage hand on the 3rd tick after your attack, and when you attack from either the thumb or the melee safespot, the hitsplat appears on the 4th tick after your attack.
 
