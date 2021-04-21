@@ -1,9 +1,9 @@
 # Guide to no teleport olm
 #### by Sri and Fecal
 
-This guide explains how to avoid teleports at olm without counting attacks or using any external plugins/timers. It covers running the mage hand as well as how to get into 4:1 or world scythe for the melee hand. It also covers efficient phase starts that facilitate this.
+This guide explains how to avoid teleports at olm without counting attacks or using any external plugins/timers. It covers running the mage hand as well as how to get into 4:1 or world scythe for the melee hand. It also covers efficient phase starts that facilitate this. Finally, it includes an ![in-depth explanation of what happens to olm's attack cycle when the mage hand dies.](#why-this-method-works)
 
-If you are not interested in any of the theory or explanations and just want the quick and dirty version, click [here](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#summary).
+If you are not interested in any of the theory or explanations and just want the quick and dirty version of the methods, click [here](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#summary).
 
 If you have any questions about anything in the guide or any olm mechanics not covered in the guide, feel free to dm onetwosri#2335 on discord and I will be happy to help to the best of my ability.
 
@@ -138,7 +138,7 @@ The advantage of knowing which mage hand cycle you are on is that it makes the t
 
 This is complicated by the cycle shift that sometimes occurs when the mage hand dies, but all the methods shown below take this into account, so you don't need to worry about it.
 
-An explanation of how this cycle shift works and how the method works is included [here](#Why this method works)
+An explanation of how this cycle shift works and when it occurs, as well as why the setup methods work is included [here](#why-this-method-works).
 
 ### Setting up 4:1
 
@@ -207,6 +207,84 @@ Another slightly gimmicky way to avoid having to do the same-tick thumb kill set
 Example: clip pending
 
 ### Why this method works
+
+#### How the mage hand dying affects Olm's attack cycle
+Olm’s attack cycle shifts back by 2 attacks if the mage hand dies on the same tick as or 1 tick before either a special attack or a null. In the case that it dies on or 1t before a special, that special is replaced by a null.
+
+In practice this means that:
+- If the mage hand dies on/1t before a null, then the next two attacks after the null will be auto + null instead of auto + special.
+- If the mage hand dies on/1t before a special, then that special will instead be converted to a null and the next two attacks will be auto + special instead of auto + null.
+
+**Note:**
+“When the mage hand dies” refers to the first tick on which its hp bar is no longer visible.
+
+#### In which cases does the cycle shift happen?
+
+The timing of the mage hand dying, and therefore whether or not olm's attack cycle shifts, is based on three things:
+
+1) what tick you are attacking on relative to olm
+2) how far away from the mage hand you are when you cast the killing mage attack (important due to trident/sang staff having projectile travel times that vary with distance).
+3) where in olm’s attack cycle you are when the mage hand dies
+
+Because most strategies entail either attacking on the same tick as olm or 1 tick after olm, only those scenarios will be covered.
+
+Both the trident and sang staff have a hit delay of 2 ticks at a range of 2-4 tiles from the target and a hit delay of 3 ticks at a range from 5-7 tiles from the target. This means that when you attack from the mage side safespot, your hitsplat appears on mage hand on the 3rd tick after your attack, and when you attack from either the thumb or the melee safespot, the hitsplat appears on the 4th tick after your attack.
+
+![](https://i.imgur.com/F43JAG2.png)
+
+The mage hand has a death animation that lasts 4 ticks from the time the hitsplat appears. This means that if you attack from the mage side safespot, the hand will die 7 (3 ticks for hitsplat + 4 ticks for animation) ticks later. If you attack from the thumb or the melee safespot, the hand will die 8 (4+4) ticks later.
+
+Since olm does a null or special every 8 ticks, if you attack on the same tick as olm and you cast the killing blow on the mage hand at the same time that he would do a null or special, the mage hand will either die 1 tick before or on the same tick as the next null or special.
+
+**Therefore, if you are running the mage hand while attacking on the same tick as olm, the cycle shift will always happen if you do your final attack at the same time that olm is supposed to do either a null or a special.**
+
+**Note:**
+From this point on, "when you kill the mage hand" should be interpreted as "when you cast the attack that kills the mage hand."
+
+But what if you are maging 1 tick after olm?
+
+Attacks from the mage side safespot (or 1-2 tiles short of it) will kill the hand on the same tick as the null/special, while attacks from the thumb or melee safespot will kill the hand 1 tick after the null or special.
+
+**So, if you are running the mage hand while attacking 1 tick after olm, the cycle shift will happen only when you kill the mage hand from the mage side safespot, right after olm was supposed to do a null or a special.**
+
+![](https://i.imgur.com/3TePiLb.png)
+
+#### Applying this to the lightning cycle
+
+Using this information, we can map out all possible kill scenarios for killing the mage hand at different points in lightning cycle. These are shown in the chart below. 
+
+![](https://i.imgur.com/GYDCGTo.png)
+
+**Interpreting the chart:**
+
+Each row covers a different mage hand kill scenario for lightning cycle.
+
+Same tick and 1t behind variants are shown for all 4 thumb kills, since what you do varies depending on what tick you’re attacking
+
+For melee safespot kills, your setup is always the same regardless of which tick you attack on, so 1t variants are only shown for null/special kills, since the cycle shift never happens on auto kills.
+
+- The “OLM” column refers to the point in the cycle that olm is at when you do your final attack on the mage hand.
+- The “YOU” column refers to where you are in the mage hand cycle when you attack.
+- The “1st-6th attack” columns list the attacks that olm will do after you do your last mage attack.
+  -If some of the later attacks in a row are not listed, it is because you will already have set 4:1 by then.
+- White cells represent olm's attacks that you avoid by turning the head
+- Blue cells represent attacks that you avoid by turning the head unless you splash from the melee safespot just before
+- Yellow cells represent attacks that you tank but don’t use to check the cycle.
+- Green cells represent attacks that you purposely tank to check where you are in the cycle in order to set up 4:1.
+
+**As you can see from following the chart, doing the 4:1 setups listed earlier allows you to tank hits to check the cycle while avoiding all possible teleports, without requiring you to know which of the 4 possible points in the cycle you are at.**
+
+##### Additional miscellaneous info:
+
+The game also provides an visual indication of when olm registers the mage hand as being dead. The melee hand will briefly “flinch” either on the same tick the mage hand dies or 1 tick after. The check for this flinch to happen appears to be on a 2 tick cycle that aligns with olm’s attack ticks.
+
+Thus, one way to identify that a cycle shift has occurred is if the hand flinches on the same tick as a special or null, but this requires you to know where in the cycle you are, so you'd have to count attacks which is a pain.
+
+However, using the flinch as an indicator is unreliable as the animation is inconsistent and sometimes hard to notice.
+
+Example of normal flinch animation: https://gfycat.com/CluelessMediumDuckbillcat
+
+Example of hard-to-notice flinch: https://gfycat.com/ElatedTastyCarpenterant
 
 
 ### Setting up World Scythe
