@@ -138,7 +138,7 @@ The advantage of knowing which mage hand cycle you are on is that it makes the t
 
 This is complicated by the cycle shift that sometimes occurs when the mage hand dies, but all the methods shown below take this into account, so you don't need to worry about it.
 
-We (and Tiprikidi, who figured it before us) have chosen not to release the exact mechanics of the cycle shift as doing so could allow for cheat clients/plugins that accurately count and track olm's attack cycle, which would reduce the fun and challenge of solo olm.
+An explanation of how this cycle shift works and how the method works is included [here](#Why this method works)
 
 ### Setting up 4:1
 
@@ -201,6 +201,12 @@ If you don't have a scythe, losing a tick to get 1t behind olm doesn't cost you,
 https://gfycat.com/malefriendlyitalianbrownbear
 
 ![scythe1tbehind](https://user-images.githubusercontent.com/81379323/114262075-de5f6200-9992-11eb-98bf-cf74b0087a4b.gif)
+
+Another slightly gimmicky way to avoid having to do the same-tick thumb kill setup is to kill the mage hand from further away using the longrange attack style. If you run to a tile that is 1 short of the melee safespot (where you would go to null flamewall), and switch your trident to longrange, the projectile will take longer to land, mimicking the effect of maging 1t behind even if you are attacking on the same tick as olm.
+
+Example: clip pending
+
+### Why this method works
 
 
 ### Setting up World Scythe
