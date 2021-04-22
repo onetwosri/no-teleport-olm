@@ -202,9 +202,9 @@ https://gfycat.com/malefriendlyitalianbrownbear
 
 ![scythe1tbehind](https://user-images.githubusercontent.com/81379323/114262075-de5f6200-9992-11eb-98bf-cf74b0087a4b.gif)
 
-Another slightly gimmicky way to avoid having to do the same-tick thumb kill setup is to kill the mage hand from further away using the longrange attack style. If you run to a tile that is 1 short of the melee safespot (where you would go to null flamewall), and switch your trident to longrange, the projectile will take longer to land, mimicking the effect of maging 1t behind even if you are attacking on the same tick as olm.
+Another way to avoid having to do the same-tick thumb kill setup is to kill the mage hand from further away using the longrange attack style. If you run to a tile that is 1 short of the melee safespot (where you would go to null flamewall), and switch your trident to longrange, the projectile will take longer to land, mimicking the effect of maging 1t behind even if you are attacking on the same tick as olm.
 
-Example: clip pending
+Example: https://www.youtube.com/watch?v=lO8hBVN1qRg
 
 ### Why this method works
 
