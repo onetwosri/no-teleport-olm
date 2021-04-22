@@ -3,7 +3,7 @@
 
 This guide explains how to avoid teleports at olm without counting attacks or using any external plugins/timers. It covers running the mage hand as well as how to get into 4:1 or world scythe for the melee hand. It also covers efficient phase starts that facilitate this. Finally, it includes an [in-depth explanation of what happens to olm's attack cycle when the mage hand dies.](#why-this-method-works)
 
-**If you are not interested in any of the theory or explanations and just want the quick and dirty version of the methods,** [**click here**](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#summary).
+If you are not interested in any of the theory or explanations and just want the quick and dirty version of the methods, click [here](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#summary).
 
 If you have any questions about anything in the guide or any olm mechanics not covered in the guide, feel free to dm onetwosri#2335 on discord and I will be happy to help to the best of my ability.
 
@@ -79,7 +79,7 @@ https://www.youtube.com/watch?v=R-C61WNwyVs
 
    Note: If you splash the mage hit after hammer, do not run all the way to the melee safespot to avoid tanking a hit, doing so puts you on crystal cycle and you'll have to tank a hit at some point later to get back onto lightning.
 
-**2a. Mage -> DWH (miss) -> Mage
+**2a. Mage -> DWH (miss or <30) -> Mage**
 
 https://www.youtube.com/watch?v=8Sw3oF2UuU8
 
@@ -288,11 +288,67 @@ Example of hard-to-notice flinch: https://gfycat.com/ElatedTastyCarpenterant
 
 
 ### Setting up World Scythe
+_Video clips will be added to this section at some point (relatively) soon_
 
-Coming soon!
+When setting up world scythe, you want to do a specific set of attacks/actions that ensures that the first special you encounter will be either crystals or lightning. These vary depending on which attack you kill the hand at:
 
-![monke](https://user-images.githubusercontent.com/81379323/114255051-cc1bfe80-9967-11eb-856a-c1645bb66a18.gif)
+##### Scenario 1: Killing mage hand from the mage side safespot
+1. Scythe (on tick)
+2. Lance (1t after olm), then run mage side to keep the head facing center
+3. Scythe again on your way to the melee safespot
+4. If you get auto'd 1t before your attack at the thumb, then continue to the melee safespot to turn the head. Otherwise stop 1 square short of the melee safespot and tank the next auto before stepping over
 
+To see why this works, consider the case where you do not splash on the attack going from the melee safespot to the mage side. You can encounter one of four attack sequences:
+1. head centers (skip blank) - _auto_ - _crystals_
+2. head centers (skip auto) - _catch-up auto_ - _auto_ - blank - auto - lightning
+3. head centers (skip lightning) - _auto_ - _blank_ - auto - **portals**
+4. head centers (skip auto) - _catch-up auto_ - _auto_ - **portals**
+
+The italicized attacks are the attacks you check in step 4 above. By running to the mage side to keep the head facing center, you ensure the head stays center in sequence 3 so you will still be able to skip portals at the melee safespot. By lancing the second hit instead of scything, you ensure that you can attack at the thumb and still be able to reach the melee safespot in time to skip portals in sequence 4. 
+
+_Notes:_ 
+- If you splash on the attack before you kill mage hand and the head turns center, then you can do the same thing but will tank an extra attack. For example, instead of center – auto – auto, you would get auto – blank – auto
+- Rather than doing scythe - lance, you can scythe twice before running mage side to keep the head facing center. However, if you get auto’d on your way back to the thumb, you will lose ticks as you will need to keep running to melee safespot before attacking again
+- If you’re maging 1t behind, replace the first scythe with a lance hit
+
+##### Scenario 2: Killing the mage hand from the thumb area (maging same tick as olm)
+1.	Scythe (on tick) at melee safespot
+2.	Scythe (1t after olm) at the thumb then immediately run mid to turn the head center
+3.	Check the next two attacks (scythe 2t before and 1t before). If you get back-to-back autos, then turn the head melee after the second auto. If you get auto – head turn, then scythe (on tick with the next auto) and turn the head mid after
+
+In this scenario, you can encounter one of four attack sequences:
+1. head turns melee (skip auto) - catch-up auto - head turns mid (skip auto) - _crystal_ - _auto_
+2. head turns melee (skip blank) - auto - head turns mid (skip lightning) - _auto_ - _head turns melee (blank)_ - auto - **portals**
+3. head turns melee (skip auto) - catch-up auto - head turns mid (skip auto) - _catch-up auto_ - _auto_ - **portals**
+4. head turns melee (skip portals) - auto - head turns mid (skip blank) - _auto_ - _crystal_
+
+The italicized attacks are the two attacks you check in step 3 above. 
+
+##### Scenario 2b: Killing the mage hand from the thumb area (maging 1t behind olm)
+1.	Lance at the melee safespot
+2.	Lance twice at the thumb to check the cycle. If you get back-to-back autos, turn the head mid before you start scything 
+
+In this scenario, you can encounter one of four attack sequences:
+
+1. head turns melee (skip auto) - _crystal_ - _auto_
+2. head turns melee (skip blank) - _auto_ - _lightning_
+3. head turns melee (skip auto) - _catch-up auto_ - _auto_ - **portals**
+4. head turns melee (skip portals) - _auto_ - _blank_
+
+The italicized attacks are the attacks you check in step 2 above.
+
+_Notes:_
+- You do not necessarily need to lance all 3 times here. You can start scything as soon as you know where you are in the cycle (for example, if you get a crystal or lightning special). You can always start scything after you tank the two attacks to check the cycle
+- Alternatively, you can choose to scythe at melee safespot, then continue scything at thumb. However, you will lose ticks if the first two attacks you tank are autos (_i.e._, sequence 3) as you will still need to turn the head mid
+
+##### Scenario 3: Killing the mage hand from the melee safespot
+1.	Scythe on tick (_do not_ go all the way to the mid safespot)
+2.	Scythe (1t after olm) then immediately run mid to turn the head center
+
+_Notes:_
+- This is the simplest scenario. Portals can happen on olm's 3rd attack after you kill the mage hand. By turning the head mid after your second scythe, you skip portals and ensure the first special you encounter will be crystals or lightning
+- If you’re maging 1t behind, replace the first scythe with a lance hit (in this case you can go all the way to the mid safespot). However, in this case, portals can happen on olm's 6th attack after you kill the mage hand. If the first two attacks after you turn the head mid are autos, then step over to the melee safespot after the second auto
+- If you want to be consistent between the on tick and 1t behind cases, you can also step over to melee safespot if you get auto-auto on the check attacks in the on tick case, but it is not necessary
 
 ## P3/Final Phase
 
@@ -315,16 +371,12 @@ To avoid teles while setting up 4:1, you must do your check hits slightly differ
 
 There are 4 scenarios:
 1. If you kill the mage hand from the mage side safespot, immediately hit the melee hand and tank your check hits without turning the head any more
-      Example: https://streamable.com/i5rekf
 2. If you kill the mage hand from the thumb while attacking on the same tick as olm, turn the head to melee safespot, tank a hit on the thumb, then turn the head again before tanking 2 hits to check cycle.
-      Example: https://streamable.com/hqiedo
 3. If you kill the mage hand from the thumb while attacking 1t after olm, turn the head to the melee safespot then tank your 2 hits to check cycle
-      Example: https://streamable.com/wug42d
 4. If you kill the mage hand from the melee safespot, turn the head 3 times, then tank 2 hits to check cycle
-      Example: https://streamable.com/brexad
 
 You can further simplify this down to 3 scenarios by always maging 1t behind olm. To efficiently transition from maging same tick to 1t behind, you can replace your mage attack from the thumb with a scythe hit: https://gfycat.com/malefriendlyitalianbrownbear
 
-More examples of each of the 4 scenarios can be found [here](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#setting-up-41).
+Examples of all 4 scenarios can be found [here](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#setting-up-41).
 
 If you do this correctly, you will never get teleports during any part of olm other than the final phase, where these methods don't work, but you can almost always avoid teleports p3 simply by doing conventional methods like 4:1, 4:0, or m7:3.
