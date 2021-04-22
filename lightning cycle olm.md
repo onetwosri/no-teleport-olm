@@ -293,8 +293,8 @@ _Video clips will be added to this section at some point (relatively) soon_
 When setting up world scythe, you want to do a specific set of attacks/actions that ensures that the first special you encounter will be either crystals or lightning. These vary depending on which attack you kill the hand at:
 
 ##### Scenario 1: Killing mage hand from the mage side safespot
-1. Scythe (on tick)
-2. Lance (1t after olm), then run mage side to keep the head facing center
+1. Scythe (on tick) at the thumb
+2. Lance (1t after olm) at the thumb, then run mage side to keep the head facing center
 3. Scythe again on your way to the melee safespot
 4. If you get auto'd 1t before your attack at the thumb, then continue to the melee safespot to turn the head. Otherwise stop 1 square short of the melee safespot and tank the next auto before stepping over
 
@@ -342,8 +342,8 @@ _Notes:_
 - Alternatively, you can choose to scythe at melee safespot, then continue scything at thumb. However, you will lose ticks if the first two attacks you tank are autos (_i.e._, sequence 3) as you will still need to turn the head mid
 
 ##### Scenario 3: Killing the mage hand from the melee safespot
-1.	Scythe on tick (_do not_ go all the way to the mid safespot)
-2.	Scythe (1t after olm) then immediately run mid to turn the head center
+1.	Scythe on tick at the thumb (_do not_ go all the way to the mid safespot)
+2.	Scythe (1t after olm) at the thumb then immediately run mid to turn the head center
 
 _Notes:_
 - This is the simplest scenario. Portals can happen on olm's 3rd attack after you kill the mage hand. By turning the head mid after your second scythe, you skip portals and ensure the first special you encounter will be crystals or lightning
