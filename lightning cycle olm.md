@@ -101,7 +101,7 @@ https://www.youtube.com/watch?v=R-C61WNwyVs
 
    Note: If you splash the mage hit after hammer, do not run all the way to the melee safespot to avoid tanking a hit, doing so puts you on crystal cycle and you'll have to tank a hit at some point later to get back onto lightning.
 
-**2a. Mage -> DWH (miss or <30) -> Mage**
+**2a. Mage -> DWH (miss) -> Mage**
 
 https://www.youtube.com/watch?v=8Sw3oF2UuU8
 
@@ -115,7 +115,7 @@ https://www.youtube.com/watch?v=8Sw3oF2UuU8
 
 https://www.youtube.com/watch?v=xMd62GX1Wjw
 
-   Note: After my hammer, I was on teleport cycle. To shift to lightning, I ran to the mage hand when I splashed (which conveneniently happened right away). If you don't want to wait for a splash, you can do 1 mage hand cycle and then tank 2 hits at the mage side safespot as shown in example **2b**.
+   Note: After my hammer, I was on teleport cycle. To shift to lightning, I ran to the mage hand when I splashed (which conveniently happened right away). If you don't want to wait for a splash, you can do 1 mage hand cycle and then tank 2 hits at the mage side safespot as shown in example **2b**.
    
    If your DWH doesn't cripple the hand, you can alternatively choose to do a 4:0 cycle instead of running to the mage hand, like in example **2a**.
 
