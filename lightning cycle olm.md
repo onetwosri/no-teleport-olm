@@ -26,6 +26,9 @@ If you have any questions about anything in the guide or any olm mechanics not c
    - [Setting up World Scythe](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#setting-up-world-scythe)
 3. [Final Phase](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#p3final-phase)
 4. [Summary](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#summary)
+   - [How to avoid teleports during mage hand](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#avoiding-teles-during-mage-hand)
+   - [How to avoid teleports while setting up 4:1 or 7:3](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#avoiding-teles-while-setting-up-41-or-73)
+   - [How to avoid teleports while setting up world scythe](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#avoiding-teles-while-setting-up-world-scythe)
 
 
 
@@ -419,7 +422,7 @@ More examples of all 4 scenarios can be found [here](https://github.com/onetwosr
 
 ##### Avoiding teles while setting up world scythe
 
-YOU MUST BE ON LIGHTNING CYCLE FOR THIS TO WORK!! Read [this section]() to learn how.
+YOU MUST BE ON LIGHTNING CYCLE FOR THIS TO WORK!! Read [this section](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#avoiding-teles-during-mage-hand) to learn how.
 
 Again, there are 4 scenarios:
 1. Kill from mage side safespot
@@ -440,6 +443,10 @@ Examples:
 
 Remember: If you get either crystals or lightning, it is safe to just start scything without completing the full setup sequence.
 
-###### Final Phase/Conclusion
+##### Conclusion
 
-If you do this correctly, you will never get teleports during any part of olm other than the final phase, where these methods don't work, but you can almost always avoid teleports p3 simply by doing conventional methods like 4:1, 4:0, or m7:3.
+With the methods listed here, you will never get teleports during any part of olm other than the final phase, where these methods don't work, but you can almost always avoid teleports during p3 simply by doing conventional methods like 4:1, 4:0, or mage 7:3.
+
+I hope you found this guide helpful and/or interesting. I realize that the sheer amount of information might be overwhelming, but I think the methods themselves are pretty straightforward, and that anyone can learn them with a little practice. If you're struggling with any part, feel free to message me on Discord (onetwosri#2335) and I'd be happy to help.
+
+Thanks for reading!
