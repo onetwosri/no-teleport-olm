@@ -1,15 +1,37 @@
 # Guide to no teleport olm
 #### by Sri and Fecal
 
-This guide explains how to avoid teleports at olm without counting attacks or using any external plugins/timers. It covers running the mage hand as well as how to get into 4:1 or world scythe for the melee hand. It also covers efficient phase starts that facilitate this. Finally, it includes an [in-depth explanation of what happens to olm's attack cycle when the mage hand dies.](#why-this-method-works)
+This guide explains how to avoid the teleport special attack during solo olm *without* counting attacks or using any external plugins/timers. It covers running the mage hand as well as how to set up 4:1 or world scythe for the melee hand. It also covers efficient phase starts that facilitate this. Additionally, it includes an [in-depth explanation of what happens to olm's attack cycle when the mage hand dies.](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#how-the-mage-hand-dying-affects-olms-attack-cycle)
 
-If you are not interested in any of the theory or explanations and just want the quick and dirty version of the methods, click [here](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#summary).
+If you are not interested in any of the theory or explanations and just want a quick rundown of how to do the methods, click [here](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#summary).
 
 If you have any questions about anything in the guide or any olm mechanics not covered in the guide, feel free to dm onetwosri#2335 on discord and I will be happy to help to the best of my ability.
 
 **Special thanks to:** Tiprikidi (for original mage hand cycle idea and method, and for reviewing 4:1 setup method) and Sooperpig and Robin (Mind rune) for helping with clips and visuals
 
+### Table of Contents
+
+1. [Mage Hand](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#i-mage-hand)
+   - [Understanding mage hand cycles]()
+   - [Getting on lightning cycle](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#getting-on-lightning-cycle)
+      - [Phase start examples](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#phase-start-examples)
+         - [1 DWH Starts](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#1-dwh-spec-starts)
+         - [2 DWH Starts](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#2-dwh-spec-starts)
+   - [Basic knowledge for shifting mage hand cycles](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#basic-knowledge-for-shifting-mage-hand-cycle)
+2. [Melee Hand](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#ii-melee-hand)
+   - [Setting up 4:1](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#setting-up-41)
+   - [Why this method works](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#why-this-method-works)
+      - [How the mage hand dying affects Olm's attack cycle](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#how-the-mage-hand-dying-affects-olms-attack-cycle)
+      - [Applying this to lightning cycle](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#applying-this-to-the-lightning-cycle)
+   - [Setting up World Scythe](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#setting-up-world-scythe)
+3. [Final Phase](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#p3final-phase)
+4. [Summary](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#summary)
+
+
+
 ## I. Mage Hand
+
+### Understanding mage hand cycles
 
 For all phases other than the final phase, olm's attack cycle is as follows:
 
@@ -62,7 +84,7 @@ Note that for p1, your first mage attack will be on the same tick as olm's first
 Where you stand before olm's 6th attack does not matter, although you obviously want to avoid as many of olm's attacks as possible.
 
 
-### Phase start examples
+#### Phase start examples
 
 I have included examples of phase starts for many common specing scenarios. 
 
@@ -71,7 +93,7 @@ I have included examples of phase starts for many common specing scenarios.
 There are tons of ways to get onto lightning cycle, these clips just represent one way to do it. Feel free to figure out your own methods and do whatever is most comfortable for you. When in doubt, you can always use the 6th attack trick mentioned earlier; at most it will result in you tanking 1 more attack than necessary. Several of the examples below also follow the 6th attack rule.
 
 
-#### 1 DWH Spec starts
+##### 1 DWH Spec starts
 
 **1. Mage -> DWH (hit) -> Mage**
 
@@ -105,7 +127,7 @@ https://www.youtube.com/watch?v=GchYxaHHAqA
 
 https://youtu.be/Z05BbMe8RHs
 
-#### 2 DWH Spec starts
+##### 2 DWH Spec starts
 
 **6. Mage -> DWH (miss) -> DWH (miss or hit under 30) -> lance -> mage**
 
@@ -140,6 +162,8 @@ This is complicated by the cycle shift that sometimes occurs when the mage hand 
 
 An explanation of how this cycle shift works and when it occurs, as well as why the setup methods work is included [here](#why-this-method-works).
 
+**Note:** All melee hand methods in this guide require a basic knowledge of 4:1. If you haven't learned it yet, make sure to check out [Tiprikidi's excellent 4:1 guide](https://pastebin.com/1yw1WBdp) first.
+
 ### Setting up 4:1
 
 Setting up 4:1 while on lightning cycle is extremely simple; all you have to do is follow one of the following 4 scenarios based on when you cast the attack that kills the mage hand. It might seem confusing at first, but for the most part, the methods are extremely intuitive and once you do them a few times they will become automatic.
@@ -150,7 +174,9 @@ P.s. many of the clips have scuffed audio and grandma clicks (sorry), but they s
 
 ##### Scenario 1: Killing mage hand from the mage side safespot
 
-After killing the mage hand, immediately switch to melee and hit melee hand. The head should turn middle (unless it was already facing middle due to a splash, in which case it will use an attack, which you should ignore). Then, just keep hitting the hand while tanking 2 hits to check where you are in the cycle.
+After killing the mage hand, immediately switch to melee and start hitting the melee hand. Tank 2 hits to check where you are in the cycle and react accordingly.
+
+If the head was already facing middle when you killed the hand (can happen if you splash the attack before) you may tank an extra hit, but don't count that as one of your two check hits. 
 
 **Examples:**
 
@@ -164,7 +190,7 @@ https://streamable.com/rs1kf3
 
 ##### Scenario 2: Killing the mage hand from the thumb area (maging same tick as olm)
 
-If you are maging same tick as olm, then after dealing the killing blow to the hand, run to the melee safespot and hit the hand. Then, tank 1 hit on the thumb before turning the head again, then tank 2 attacks to check the cycle.
+If you are maging same tick as olm: After doing your final mage attack, run to the melee safespot and hit the melee hand. Tank 1 hit on the thumb before turning the head again, then tank 2 attacks to check the cycle.
 
 **Examples:**
 
@@ -174,7 +200,7 @@ https://streamable.com/o8hgvi
 
 ##### Scenario 3: Killing the mage hand from the thumb area (maging 1t behind olm)
 
-If you are maging 1t behind olm, then after you kill the hand, run to the melee safespot and hit the hand. Then, tank two hits to check the cycle while making your way to the thumb.
+If you are maging 1t behind olm: After you kill the hand, run to the melee safespot and hit the melee hand. Tank two hits to check the cycle while making your way to the thumb, then react accordingly.
 
 **Examples:**
 
@@ -184,7 +210,7 @@ https://streamable.com/bxrl5e
 
 ##### Scenario 4: Killing the mage hand from the melee safespot
 
-If you kill the mage hand from the melee safespot, turn the head **exactly THREE** times, before tanking two hits to check the cycle. The first head turn is when olm turns from melee safespot to mage side. This means that you only go to the melee safespot if your first lance hit noodles, causing olm to turn middle instead of melee side, as shown in the second example.
+If you kill the mage hand from the melee safespot, turn the head **exactly THREE** times before tanking two hits to check the cycle. The first head turn is when olm turns from melee safespot to mage side. This means that you only go to the melee safespot if your first lance hit noodles, causing olm to turn middle instead of melee side, as shown in the second example.
 
 **Examples:**
 
