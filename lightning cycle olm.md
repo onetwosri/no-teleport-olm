@@ -391,11 +391,9 @@ To avoid teles during mage hand, line up your attack cycle with olm's such that 
 
 If you don't want to memorize many different specing scenarios, one foolproof method is just to make sure that you mage from the melee safespot when olm does his sixth attack of the phase.
 
-##### Avoiding teles during melee hand
+##### Avoiding teles while setting up 4:1 or 7:3
 
 YOU MUST BE ON LIGHTNING CYCLE FOR THESE METHODS TO WORK! To learn how, read the section just above this one.
-
-###### Avoiding teles while setting up 4:1 or 7:3
 
 To avoid teles while setting up 4:1, you must transition to the melee hand and do your "check hits" slightly differently based on where you do your last attack on the mage hand. The three possible positions are shown below:
 
@@ -419,7 +417,9 @@ You can further simplify this down to 3 scenarios by always maging 1t behind olm
 
 More examples of all 4 scenarios can be found [here](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#setting-up-41).
 
-###### Avoiding teles while setting up world scythe
+##### Avoiding teles while setting up world scythe
+
+YOU MUST BE ON LIGHTNING CYCLE FOR THIS TO WORK!! Read [this section]() to learn how.
 
 Again, there are 4 scenarios:
 1. Kill from mage side safespot
