@@ -3,7 +3,7 @@
 
 This guide explains how to avoid the teleport special attack during solo olm *without* counting attacks or using any external plugins/timers. It covers running the mage hand as well as how to set up 4:1 or world scythe for the melee hand. It also covers efficient phase starts that facilitate this. Additionally, it includes an [in-depth explanation of what happens to olm's attack cycle when the mage hand dies.](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#how-the-mage-hand-dying-affects-olms-attack-cycle)
 
-If you are not interested in any of the theory or explanations and just want a quick rundown of how to do the methods, [skip to the Summary](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#summary).
+**If you are not interested in any of the theory or explanations and just want a quick rundown of how to do the methods, [skip to the Summary](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#summary).**
 
 If you have any questions about anything in the guide or any olm mechanics not covered in the guide, feel free to dm onetwosri#2335 on discord and I will be happy to help to the best of my ability.
 
