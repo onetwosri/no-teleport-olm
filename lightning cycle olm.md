@@ -428,6 +428,7 @@ You can further simplify this down to 3 scenarios by always maging 1t behind olm
 More examples of all 4 scenarios can be found [here](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#setting-up-41).
 
 ##### Avoiding teles while setting up world scythe
+###### *Examples coming soon*
 
 YOU MUST BE ON LIGHTNING CYCLE FOR THIS TO WORK!! Read [this section](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#avoiding-teles-during-mage-hand) to learn how.
 
