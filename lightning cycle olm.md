@@ -430,26 +430,28 @@ More examples of all 4 scenarios can be found [here](https://github.com/onetwosr
 ##### Avoiding teles while setting up world scythe
 ###### *Examples coming soon*
 
+The explanations here are simplified as much as possible. They just tell you how to avoid teleports until you see crystal/lightning and know where you are in the cycle. For a more in-depth explanation of how to maximize dps and not lose ticks while setting up, check out the [Setting up World Scythe section](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#avoiding-teles-while-setting-up-world-scythe) of this guide or watch the example clips (coming soon). 
+
 YOU MUST BE ON LIGHTNING CYCLE FOR THIS TO WORK!! Read [this section](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#avoiding-teles-during-mage-hand) to learn how.
 
 Again, there are 4 scenarios:
 1. Kill from mage side safespot
-   - Immediately scythe (lance/mace if 1t behind) the hand once, then lance/mace once and run to mage side ss to prevent the head from turning, then scythe on the way to the thumb. If a special hasn't occurred by the time you attack, skip the next special at melee safespot because it is teleports.
+   - Immediately hit the melee hand and tank 2 hits to check the cycle (just like in the 4:1 method). If neither of the two attacks is a special, then skip the next special because it will be teleports.
 
 Examples: 
 
 2. Kill from thumb (maging same tick as olm)
-   - Run to the melee safespot and scythe once, then scythe once from the thumb before turning the head middle. Tank 2 hits to check cycle. If you don't get a special, then skip the next special because it is teleports.
+   - Run to the melee safespot and scythe once, then scythe once from the thumb before turning the head middle. Tank 2 hits to check cycle (same as 4:1 method). If you don't get a special, then skip the next special because it will be teleports.
 
 Examples:
 
 3. Kill from thumb (maging 1t behind olm)
-   - Run to melee safespot and lance/mace the hand, then use lance/mace for 2 more attacks while you tank 2 hits to check the cycle. If you get b2b autos, turn the head middle before you start scything.
+   - Run to melee safespot and hit the melee hand, then tank 2 hits at the thumb to check the cycle. If you don't see a special, turn the head middle to skip potential teleports.
 
 Examples:
 
 4. Kill from melee safespot
-   - Switch to melee gear and immediately scythe (lance if 1t behind, in which case you can turn the head) the melee hand from the thumb WITHOUT turning the head toward mage side. Then scythe once more and turn the head middle. Tank 2 hits and if they are b2b autos, turn the head to the melee safespot to avoid teleports.
+   - Switch to melee gear and immediately attack the melee hand. Skip olm's 3rd attack by turning the head, then tank 2 hits to check cycle. If you get b2b autos, turn the head to the melee safespot to avoid potential teleports.
 
 Examples: 
 
