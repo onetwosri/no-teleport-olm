@@ -355,7 +355,7 @@ The italicized attacks are the two attacks you check in step 3 above.
 
 ##### Scenario 2b: Killing the mage hand from the thumb area (maging 1t behind olm)
 1.	Lance at the melee safespot
-2.	Lance twice at the thumb to check the cycle. If you get back-to-back autos, turn the head mid before you start scything 
+2.	Lance then Scythe at the thumb to check the cycle. If you get back-to-back autos, turn the head mid 
 
 In this scenario, you can encounter one of four attack sequences:
 
@@ -367,7 +367,7 @@ In this scenario, you can encounter one of four attack sequences:
 The italicized attacks are the attacks you check in step 2 above.
 
 _Notes:_
-- You do not necessarily need to lance all 3 times here. You can start scything as soon as you know where you are in the cycle (for example, if you get a crystal or lightning special). You can always start scything after you tank the two attacks to check the cycle
+- You can start scything as soon as you know where you are in the cycle (for example, if you get a crystal or lightning special)
 - Alternatively, you can choose to scythe at melee safespot, then continue scything at thumb. However, you will lose ticks if the first two attacks you tank are autos (_i.e._, sequence 3) as you will still need to turn the head mid
 
 ##### Scenario 3: Killing the mage hand from the melee safespot
@@ -436,7 +436,7 @@ YOU MUST BE ON LIGHTNING CYCLE FOR THIS TO WORK!! Read [this section](https://gi
 
 Again, there are 4 scenarios:
 1. Kill from mage side safespot
-   - Immediately hit the melee hand and tank 2 hits to check the cycle (just like in the 4:1 method). If neither of the two attacks is a special, then skip the next special because it will be teleports.
+   - Immediately hit the melee hand and tank 2 hits to check the cycle (just like in the 4:1 method). If neither of the two attacks is a special, then skip the next special.
 
 Examples: 
 
