@@ -430,7 +430,7 @@ More examples of all 4 scenarios can be found [here](https://github.com/onetwosr
 ##### Avoiding teles while setting up world scythe
 ###### *Examples coming soon*
 
-The explanations here are simplified as much as possible. They just tell you how to avoid teleports until you see crystal/lightning and know where you are in the cycle. For a more in-depth explanation of how to maximize dps and not lose ticks while setting up, check out the [Setting up World Scythe section](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#avoiding-teles-while-setting-up-world-scythe) of this guide or watch the example clips (coming soon). 
+The explanations here are simplified as much as possible. They just tell you how to avoid teleports until you see crystal/lightning and know where you are in the cycle. For a more in-depth explanation of how to maximize dps and not lose ticks while setting up, check out the [Setting up World Scythe section](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#setting-up-world-scythe) of this guide or watch the example clips (coming soon). 
 
 YOU MUST BE ON LIGHTNING CYCLE FOR THIS TO WORK!! Read [this section](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#avoiding-teles-during-mage-hand) to learn how.
 
