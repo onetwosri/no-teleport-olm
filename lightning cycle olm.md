@@ -112,13 +112,15 @@ https://www.youtube.com/watch?v=8Sw3oF2UuU8
    
    **2b.** https://www.youtube.com/watch?v=7N25g0sNXDY
    
-   Alternative method to shift cycle to lightning without losing a tick. Note that running to the mage hand like I did is unnecessary since olm is facing there anyways. You can just afk at the mage hand safespot and tank auto+null then continue running the mage hand. 
+   Alternative method to shift cycle to lightning without losing a tick. Note that running to the mage hand like I did is unnecessary since olm is facing there anyways (see example 3b for a better example). You can just afk at the mage hand safespot and tank auto+null then continue running the mage hand. 
 
 **3. Mage (splash) -> DWH -> Mage**
 
 https://www.youtube.com/watch?v=xMd62GX1Wjw
 
-   Note: After my hammer, I was on teleport cycle. To shift to lightning, I ran to the mage hand when I splashed (which conveniently happened right away). If you don't want to wait for a splash, you can do 1 mage hand cycle and then tank 2 hits at the mage side safespot as shown in example **2b**.
+   Note: After my hammer, I was on teleport cycle. To shift to lightning, I ran to the mage hand when I splashed (which conveniently happened right away). If you don't want to wait for a splash, you can do 1 mage hand cycle and then tank 2 hits at the mage side safespot as shown in example **3b**.
+   
+   **3b.** https://www.youtube.com/watch?v=xSECxnWWArA
    
    If your DWH doesn't cripple the hand, you can alternatively choose to do a 4:0 cycle instead of running to the mage hand, like in example **2a**.
 
