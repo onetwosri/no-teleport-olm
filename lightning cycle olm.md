@@ -349,7 +349,9 @@ _Notes:_
 2.	Scythe (1t after olm) at the thumb then immediately run mid to turn the head center
 3.	Check the next two attacks (scythe 2t before and 1t before). If you get back-to-back autos, then turn the head melee after the second auto. If you get auto – head turn, then scythe (on tick with the next auto) and turn the head mid after
 
-Example: https://streamable.com/2dwfpu
+Example 1: https://streamable.com/lqzp3n (auto - auto)
+Example 2: https://streamable.com/2dwfpu (auto - head turn)
+
 
 In this scenario, you can encounter one of four attack sequences:
 1. head turns melee (skip auto) - catch-up auto - head turns mid (skip auto) - _crystal_ - _auto_
