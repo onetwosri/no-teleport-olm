@@ -329,6 +329,8 @@ When setting up world scythe, you want to do a specific set of attacks/actions t
 3. Scythe again on your way to the melee safespot
 4. If you get auto'd 1t before your attack at the thumb, then continue to the melee safespot to turn the head. Otherwise stop 1 square short of the melee safespot and tank the next auto before stepping over
 
+Example: https://streamable.com/ciquxu
+
 To see why this works, consider the case where you do not splash on the attack going from the melee safespot to the mage side. You can encounter one of four attack sequences:
 1. head centers (skip blank) - _auto_ - _crystals_
 2. head centers (skip auto) - _catch-up auto_ - _auto_ - blank - auto - lightning
@@ -346,6 +348,8 @@ _Notes:_
 1.	Scythe (on tick) at melee safespot
 2.	Scythe (1t after olm) at the thumb then immediately run mid to turn the head center
 3.	Check the next two attacks (scythe 2t before and 1t before). If you get back-to-back autos, then turn the head melee after the second auto. If you get auto – head turn, then scythe (on tick with the next auto) and turn the head mid after
+
+Example: https://streamable.com/2dwfpu
 
 In this scenario, you can encounter one of four attack sequences:
 1. head turns melee (skip auto) - catch-up auto - head turns mid (skip auto) - _crystal_ - _auto_
@@ -375,6 +379,8 @@ _Notes:_
 ##### Scenario 3: Killing the mage hand from the melee safespot
 1.	Scythe on tick at the thumb (_do not_ go all the way to the mid safespot)
 2.	Scythe (1t after olm) at the thumb then immediately run mid to turn the head center
+
+Example: https://streamable.com/7nz2w6
 
 _Notes:_
 - This is the simplest scenario. Portals can happen on olm's 3rd attack after you kill the mage hand. By turning the head mid after your second scythe, you skip portals and ensure the first special you encounter will be crystals or lightning
