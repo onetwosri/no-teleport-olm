@@ -337,7 +337,7 @@ To see why this works, consider the case where you do not splash on the attack g
 3. head centers (skip lightning) - _auto_ - _blank_ - auto - **portals**
 4. head centers (skip auto) - _catch-up auto_ - _auto_ - **portals**
 
-The italicized attacks are the attacks you check in step 4 above. By running to the mage side to keep the head facing center, you ensure the head stays center in sequence 3 so you will still be able to skip portals at the melee safespot. By lancing the second hit instead of scything, you ensure that you can attack at the thumb and still be able to reach the melee safespot in time to skip portals in sequence 4. 
+The italicized attacks are the attacks you check in steps 2 and 4 above. By running to the mage side to keep the head facing center, you ensure the head stays center in sequence 3 so you will still be able to skip portals at the melee safespot. By lancing the second hit instead of scything, you ensure that you can attack at the thumb and still be able to reach the melee safespot in time to skip portals in sequence 4. 
 
 _Notes:_ 
 - If you splash on the attack before you kill mage hand and the head turns center, then you can do the same thing but will tank an extra attack. For example, instead of center – auto – auto, you would get auto – blank – auto
