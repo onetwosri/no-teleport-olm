@@ -374,8 +374,7 @@ In this scenario, you can encounter one of four attack sequences:
 The italicized attacks are the attacks you check in step 2 above.
 
 _Notes:_
-- You can start scything as soon as you know where you are in the cycle (for example, if you get a crystal or lightning special)
-- Alternatively, you can choose to scythe at melee safespot, then continue scything at thumb. However, you will lose ticks if the first two attacks you tank are autos (_i.e._, sequence 3) as you will still need to turn the head mid
+- You can instead choose to scythe at melee safespot, then continue scything at thumb. However, you will lose ticks if the first two attacks you tank are autos (_i.e._, sequence 3) as you will still need to turn the head mid
 
 ##### Scenario 3: Killing the mage hand from the melee safespot
 1.	Scythe on tick at the thumb (_do not_ go all the way to the mid safespot)
