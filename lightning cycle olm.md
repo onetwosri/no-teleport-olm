@@ -319,8 +319,6 @@ Example of hard-to-notice flinch: https://gfycat.com/ElatedTastyCarpenterant
 
 
 ### Setting up World Scythe
-_Video clips will be added to this section at some point (relatively) soon_
-
 When setting up world scythe, you want to do a specific set of attacks/actions that ensures that the first special you encounter will be either crystals or lightning. These vary depending on which attack you kill the hand at:
 
 ##### Scenario 1: Killing mage hand from the mage side safespot
@@ -329,7 +327,8 @@ When setting up world scythe, you want to do a specific set of attacks/actions t
 3. Scythe again on your way to the melee safespot
 4. If you get auto'd 1t before your attack at the thumb, then continue to the melee safespot to turn the head. Otherwise stop 1 square short of the melee safespot and tank the next auto before stepping over
 
-Example: https://streamable.com/ciquxu
+Example 1: https://streamable.com/ciquxu (auto - auto) <br />
+Example 2: https://streamable.com/502tre (auto - blank)
 
 To see why this works, consider the case where you do not splash on the attack going from the melee safespot to the mage side. You can encounter one of four attack sequences:
 1. head centers (skip blank) - _auto_ - _crystals_
@@ -438,7 +437,6 @@ You can further simplify this down to 3 scenarios by always maging 1t behind olm
 More examples of all 4 scenarios can be found [here](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#setting-up-41).
 
 ##### Avoiding teles while setting up world scythe
-###### *Examples coming soon*
 
 The explanations here are simplified as much as possible. They just tell you how to avoid teleports until you see crystal/lightning and know where you are in the cycle. For a more in-depth explanation of how to maximize dps and not lose ticks while setting up, check out the [Setting up World Scythe section](https://github.com/onetwosri/no-teleport-olm/blob/main/lightning%20cycle%20olm.md#setting-up-world-scythe) of this guide or watch the example clips (coming soon). 
 
@@ -448,22 +446,25 @@ Again, there are 4 scenarios:
 1. Kill from mage side safespot
    - Immediately hit the melee hand and tank 2 hits to check the cycle (just like in the 4:1 method). If neither of the two attacks is a special, then skip the next special.
 
-Examples: 
+Example 1: https://streamable.com/ciquxu (auto - auto) <br />
+Example 2: https://streamable.com/502tre (auto - blank)
+
 
 2. Kill from thumb (maging same tick as olm)
    - Run to the melee safespot and scythe once, then scythe once from the thumb before turning the head middle. Tank 2 hits to check cycle (same as 4:1 method). If you don't get a special, then skip the next special because it will be teleports.
 
-Examples:
+Example 1: https://streamable.com/lqzp3n (auto - auto) <br />
+Example 2: https://streamable.com/2dwfpu (auto - head turn)
 
 3. Kill from thumb (maging 1t behind olm)
    - Run to melee safespot and hit the melee hand, then tank 2 hits at the thumb to check the cycle. If you don't see a special, turn the head middle to skip potential teleports.
 
-Examples:
+Example:
 
 4. Kill from melee safespot
    - Switch to melee gear and immediately attack the melee hand. Skip olm's 3rd attack by turning the head, then tank 2 hits to check cycle. If you get b2b autos, turn the head to the melee safespot to avoid potential teleports.
 
-Examples: 
+Example: https://streamable.com/7nz2w6
 
 Remember: If you get either crystals or lightning, it is safe to just start scything without completing the full setup sequence.
 
